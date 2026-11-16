@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/aspire/">
+    <Project Path="aspire/GrocerEasy.AppHost/GrocerEasy.AppHost.csproj" />
+    <Project Path="aspire/GrocerEasy.ServiceDefaults/GrocerEasy.ServiceDefaults.csproj" />
+  </Folder>
+  <Folder Name="/src/">
+    <Project Path="src/GrocerEasy.Api/GrocerEasy.Api.csproj" />
+    <Project Path="src/GrocerEasy.Application/GrocerEasy.Application.csproj" />
+    <Project Path="src/GrocerEasy.Domain/GrocerEasy.Domain.csproj" />
+    <Project Path="src/GrocerEasy.Infrastructure/GrocerEasy.Infrastructure.csproj" />
+  </Folder>
+</Solution>
