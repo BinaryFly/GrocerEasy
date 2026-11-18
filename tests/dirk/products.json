@@ -254,7 +254,7 @@
             "brand": "",
             "department": "Aardappelen, groente & fruit",
             "packaging": "6 Stuks",
-            "image": "artikelen/478163_2026-11-16_03-03-02-880_f006f64c-74ec-4380-931a-5090edecf12a.png",
+            "image": "artikelen/478163_2026-11-17_03-03-11-638_52338466-1020-48d1-8510-a85453aad2f5.png",
             "webgroup": "Fruit",
             "productAssortment": {
               "productId": 116317,
@@ -270,7 +270,7 @@
                 "headerText": "Pink lady",
                 "subText": "",
                 "packaging": "6 Stuks",
-                "image": "artikelen/478163_2026-11-16_03-03-02-880_f006f64c-74ec-4380-931a-5090edecf12a.png",
+                "image": "artikelen/478163_2026-11-17_03-03-11-638_52338466-1020-48d1-8510-a85453aad2f5.png",
                 "department": "Aardappelen, groente & fruit",
                 "webgroup": "Fruit",
                 "brand": "",
@@ -565,7 +565,7 @@
             "brand": "",
             "department": "Aardappelen, groente & fruit",
             "packaging": "4 Stuks",
-            "image": "artikelen/436590_2026-11-15_03-01-55-106_14f38220-a4ff-468b-a0cb-3f0d9b8fc6fd.png",
+            "image": "artikelen/436590_2026-11-17_03-01-31-184_5f1dee3b-a109-49d2-8d14-1ae2c23307f8.png",
             "webgroup": "Fruit",
             "productAssortment": {
               "productId": 91035,
@@ -581,7 +581,7 @@
                 "headerText": "Cosmic crisp",
                 "subText": "",
                 "packaging": "4 Stuks",
-                "image": "artikelen/436590_2026-11-15_03-01-55-106_14f38220-a4ff-468b-a0cb-3f0d9b8fc6fd.png",
+                "image": "artikelen/436590_2026-11-17_03-01-31-184_5f1dee3b-a109-49d2-8d14-1ae2c23307f8.png",
                 "department": "Aardappelen, groente & fruit",
                 "webgroup": "Fruit",
                 "brand": "",
@@ -1503,52 +1503,6 @@
         {
           "ranking": 49,
           "product": {
-            "headerText": "1 de Beste Fruitrepen appel",
-            "productId": 113422,
-            "brand": "1 de Beste",
-            "department": "Brood, beleg & koek",
-            "packaging": "264 g",
-            "image": "artikelen/206776_1_471853_638683011382556982.png",
-            "webgroup": "Koekjes",
-            "productAssortment": {
-              "productId": 113422,
-              "normalPrice": 1.2500,
-              "offerPrice": 0.0,
-              "isSingleUsePlastic": false,
-              "singleUsePlasticValue": 0,
-              "startDate": "2026-11-02T00:00:00.000+01:00",
-              "endDate": "2049-12-31T23:59:59.000+01:00",
-              "productOffer": null,
-              "productInformation": {
-                "productId": 113422,
-                "headerText": "1 de Beste Fruitrepen appel",
-                "subText": "",
-                "packaging": "264 g",
-                "image": "artikelen/206776_1_471853_638683011382556982.png",
-                "department": "Brood, beleg & koek",
-                "webgroup": "Koekjes",
-                "brand": "1 de Beste",
-                "logos": [
-                  {
-                    "description": "1 DE BESTE (VERSIE 2018) ",
-                    "position": 99,
-                    "link": "https://www.dirk.nl/meer/inspiratie/1-de-beste",
-                    "image": "logos/81054b94-68db-4d5d-9ca0-392e8070401e.png"
-                  },
-                  {
-                    "description": "NUTRI-SCORE D = ORANJE",
-                    "position": 99,
-                    "link": "https://www.dirk.nl/meer/over-dirk/duurzaamheid/nutriscore",
-                    "image": "logos/1bc7f289-6413-4f94-8d11-995fc9151ce1.png"
-                  }
-                ]
-              }
-            }
-          }
-        },
-        {
-          "ranking": 50,
-          "product": {
             "headerText": "1 de Beste Vers sap appel limoen blauwe bes",
             "productId": 97111,
             "brand": "1 de Beste",
@@ -1593,7 +1547,7 @@
           }
         },
         {
-          "ranking": 51,
+          "ranking": 50,
           "product": {
             "headerText": "Fruity Juice 100% sap appel ananas framboos",
             "productId": 103440,
@@ -1626,7 +1580,7 @@
           }
         },
         {
-          "ranking": 52,
+          "ranking": 51,
           "product": {
             "headerText": "Dubbelfrisss Bosvruchten appel boost",
             "productId": 103661,
@@ -1659,7 +1613,7 @@
           }
         },
         {
-          "ranking": 53,
+          "ranking": 52,
           "product": {
             "headerText": "Flevosap Appel peer",
             "productId": 115932,
@@ -1692,7 +1646,7 @@
           }
         },
         {
-          "ranking": 54,
+          "ranking": 53,
           "product": {
             "headerText": "Hak Rode kool met stukjes appel",
             "productId": 59527,
@@ -1732,7 +1686,7 @@
           }
         },
         {
-          "ranking": 55,
+          "ranking": 54,
           "product": {
             "headerText": "Olvarit Knijpfruit 6+ Maanden Appel Banaan",
             "productId": 83189,
@@ -1771,7 +1725,7 @@
           }
         },
         {
-          "ranking": 56,
+          "ranking": 55,
           "product": {
             "headerText": "Hak Rode kool met stukjes appel",
             "productId": 59498,
@@ -1817,7 +1771,7 @@
           }
         },
         {
-          "ranking": 57,
+          "ranking": 56,
           "product": {
             "headerText": "Liga Evergreen appel 6 x 2 stuks",
             "productId": 11781,
@@ -1850,7 +1804,7 @@
           }
         },
         {
-          "ranking": 58,
+          "ranking": 57,
           "product": {
             "headerText": "Bonbébé Diksap 6+ maanden appel",
             "productId": 56579,
@@ -1890,7 +1844,7 @@
           }
         },
         {
-          "ranking": 59,
+          "ranking": 58,
           "product": {
             "headerText": "Bonduelle Rode kool met appel",
             "productId": 9582,
@@ -1923,7 +1877,7 @@
           }
         },
         {
-          "ranking": 60,
+          "ranking": 59,
           "product": {
             "headerText": "Goodies Knijpzakje smoothie aardbei & appel",
             "productId": 109053,
@@ -1956,7 +1910,7 @@
           }
         },
         {
-          "ranking": 61,
+          "ranking": 60,
           "product": {
             "headerText": "Olvarit Knijpfruit 12+ Maanden Appel Bosbes",
             "productId": 83364,
@@ -1995,7 +1949,7 @@
           }
         },
         {
-          "ranking": 62,
+          "ranking": 61,
           "product": {
             "headerText": "Goodies Knijpzakje smoothie perzik, banaan & appel",
             "productId": 109052,
@@ -2028,7 +1982,7 @@
           }
         },
         {
-          "ranking": 63,
+          "ranking": 62,
           "product": {
             "headerText": "Calvé Dressing honing appel",
             "productId": 461,
@@ -2061,7 +2015,7 @@
           }
         },
         {
-          "ranking": 64,
+          "ranking": 63,
           "product": {
             "headerText": "Bonbébé F1207 bio perzik appel mango",
             "productId": 95662,
@@ -2101,7 +2055,7 @@
           }
         },
         {
-          "ranking": 65,
+          "ranking": 64,
           "product": {
             "headerText": "Oasis Appel cassis framboos",
             "productId": 82920,
@@ -2134,7 +2088,7 @@
           }
         },
         {
-          "ranking": 66,
+          "ranking": 65,
           "product": {
             "headerText": "Dubbelfrisss 1kcal appel zwarte bes",
             "productId": 79156,
@@ -2167,7 +2121,7 @@
           }
         },
         {
-          "ranking": 67,
+          "ranking": 66,
           "product": {
             "headerText": "Koopmans Appel kruimeltaart mix",
             "productId": 63248,
@@ -2200,7 +2154,7 @@
           }
         },
         {
-          "ranking": 68,
+          "ranking": 67,
           "product": {
             "headerText": "Olvarit 8+ Maanden Appel Banaan Peer",
             "productId": 53362,
@@ -2233,7 +2187,7 @@
           }
         },
         {
-          "ranking": 69,
+          "ranking": 68,
           "product": {
             "headerText": "Olvarit 12+ Maanden Appel Perzik Mango",
             "productId": 53363,
@@ -2266,7 +2220,7 @@
           }
         },
         {
-          "ranking": 70,
+          "ranking": 69,
           "product": {
             "headerText": "Nestlé Little rockets smoothie appel wortel pompoen",
             "productId": 75305,
@@ -2279,7 +2233,7 @@
           }
         },
         {
-          "ranking": 71,
+          "ranking": 70,
           "product": {
             "headerText": "Olvarit 4+ Maanden Appel Mango Banaan",
             "productId": 69777,
@@ -2312,7 +2266,7 @@
           }
         },
         {
-          "ranking": 72,
+          "ranking": 71,
           "product": {
             "headerText": "Olvarit 12+ Maanden Appel Peer Framboos",
             "productId": 18794,
@@ -2345,7 +2299,7 @@
           }
         },
         {
-          "ranking": 73,
+          "ranking": 72,
           "product": {
             "headerText": "Olvarit 8+ Maanden Appel Aardbei Banaan",
             "productId": 18805,
@@ -2358,14 +2312,14 @@
           }
         },
         {
-          "ranking": 74,
+          "ranking": 73,
           "product": {
             "headerText": "Zonnatura Biologische notenreep appel kaneel 3 stuks",
             "productId": 6349,
             "brand": "Zonnatura",
             "department": "Voorraadkast",
             "packaging": "80 g",
-            "image": "artikelen/344743_2026-11-16_03-03-26-808_b23f71bd-c6db-4f13-b793-e6a5e1754b4b.png",
+            "image": "artikelen/344743_2026-11-17_03-03-16-133_8516cbd4-d430-468c-910e-57c8dc40fce1.png",
             "webgroup": "Speciale voeding",
             "productAssortment": {
               "productId": 6349,
@@ -2381,7 +2335,7 @@
                 "headerText": "Zonnatura Biologische notenreep appel kaneel 3 stuks",
                 "subText": "",
                 "packaging": "80 g",
-                "image": "artikelen/344743_2026-11-16_03-03-26-808_b23f71bd-c6db-4f13-b793-e6a5e1754b4b.png",
+                "image": "artikelen/344743_2026-11-17_03-03-16-133_8516cbd4-d430-468c-910e-57c8dc40fce1.png",
                 "department": "Voorraadkast",
                 "webgroup": "Speciale voeding",
                 "brand": "Zonnatura",
@@ -2398,7 +2352,7 @@
           }
         },
         {
-          "ranking": 75,
+          "ranking": 74,
           "product": {
             "headerText": "Dreft Afwasmiddel appel",
             "productId": 77730,
@@ -2411,7 +2365,7 @@
           }
         },
         {
-          "ranking": 76,
+          "ranking": 75,
           "product": {
             "headerText": "1 de Beste Krokante muesli appel kaneel",
             "productId": 119074,
@@ -2463,7 +2417,7 @@
           }
         },
         {
-          "ranking": 77,
+          "ranking": 76,
           "product": {
             "headerText": "Sultana Fruitbiscuit appel 5x 3st.",
             "productId": 114877,
@@ -2476,7 +2430,7 @@
           }
         },
         {
-          "ranking": 78,
+          "ranking": 77,
           "product": {
             "headerText": "Olvarit 6+ Maanden Appel Aardbei Peer",
             "productId": 53361,
@@ -2489,7 +2443,7 @@
           }
         },
         {
-          "ranking": 79,
+          "ranking": 78,
           "product": {
             "headerText": "Olvarit 6+ Maanden Banaan Appel Zuivel",
             "productId": 18804,
@@ -2502,7 +2456,7 @@
           }
         },
         {
-          "ranking": 80,
+          "ranking": 79,
           "product": {
             "headerText": "Sap appel blauwe bes limoen",
             "productId": 112537,
@@ -2515,7 +2469,7 @@
           }
         },
         {
-          "ranking": 81,
+          "ranking": 80,
           "product": {
             "headerText": "1 de Beste Knijpfruit appel banaan 4x 90gr",
             "productId": 129004,
@@ -2561,7 +2515,7 @@
           }
         },
         {
-          "ranking": 82,
+          "ranking": 81,
           "product": {
             "headerText": "Better Pete Overnight oats bio appel kaneel",
             "productId": 128061,
@@ -2601,7 +2555,7 @@
           }
         },
         {
-          "ranking": 83,
+          "ranking": 82,
           "product": {
             "headerText": "Olvarit 4+ Maanden Perzik Appel",
             "productId": 69776,
@@ -2614,7 +2568,7 @@
           }
         },
         {
-          "ranking": 84,
+          "ranking": 83,
           "product": {
             "headerText": "Olvarit 6+ Maanden Appel Banaan Sinaasappel",
             "productId": 69779,
@@ -2627,7 +2581,7 @@
           }
         },
         {
-          "ranking": 85,
+          "ranking": 84,
           "product": {
             "headerText": "Sap framboos appel peer",
             "productId": 113049,
@@ -2640,7 +2594,7 @@
           }
         },
         {
-          "ranking": 86,
+          "ranking": 85,
           "product": {
             "headerText": "Bolletje Havermout to go appel kaneel",
             "productId": 127654,
@@ -2673,7 +2627,7 @@
           }
         },
         {
-          "ranking": 87,
+          "ranking": 86,
           "product": {
             "headerText": "Bio+ Rode kool met appel",
             "productId": 124450,
@@ -2686,7 +2640,7 @@
           }
         },
         {
-          "ranking": 88,
+          "ranking": 87,
           "product": {
             "headerText": "DekaVers Rb appel noten pencees 4st.",
             "productId": 125958,
@@ -2699,7 +2653,7 @@
           }
         },
         {
-          "ranking": 89,
+          "ranking": 88,
           "product": {
             "headerText": "DekaVers Appel pencee",
             "productId": 72468,
@@ -2712,7 +2666,7 @@
           }
         },
         {
-          "ranking": 90,
+          "ranking": 89,
           "product": {
             "headerText": "Dubbelfrisss Zure Mat & Groene Appel 1kcal",
             "productId": 124234,
@@ -2745,14 +2699,14 @@
           }
         },
         {
-          "ranking": 91,
+          "ranking": 90,
           "product": {
             "headerText": "Appelsientje Kids fruitdrink appel 6 st.",
             "productId": 124191,
             "brand": "Appelsientje",
             "department": "Dranken, sap, koffie & thee",
             "packaging": "1,2 liter",
-            "image": "artikelen/488468_2026-11-16_03-06-27-416_cce5a3a8-dd4b-4604-83ce-32b465e33333.png",
+            "image": "artikelen/488468_2026-11-17_03-12-35-894_ad4f069e-4aa0-4e43-ae93-f178e3926c0d.png",
             "webgroup": "Vruchtensappen",
             "productAssortment": {
               "productId": 124191,
@@ -2768,7 +2722,7 @@
                 "headerText": "Appelsientje Kids fruitdrink appel 6 st.",
                 "subText": "",
                 "packaging": "1,2 liter",
-                "image": "artikelen/488468_2026-11-16_03-06-27-416_cce5a3a8-dd4b-4604-83ce-32b465e33333.png",
+                "image": "artikelen/488468_2026-11-17_03-12-35-894_ad4f069e-4aa0-4e43-ae93-f178e3926c0d.png",
                 "department": "Dranken, sap, koffie & thee",
                 "webgroup": "Vruchtensappen",
                 "brand": "Appelsientje",
@@ -2778,7 +2732,7 @@
           }
         },
         {
-          "ranking": 92,
+          "ranking": 91,
           "product": {
             "headerText": "Sap appel mango chia",
             "productId": 127062,
@@ -2791,7 +2745,7 @@
           }
         },
         {
-          "ranking": 93,
+          "ranking": 92,
           "product": {
             "headerText": "Dubbelfrisss Zure Mat & Groene Appel 1kcal",
             "productId": 125760,
@@ -2824,7 +2778,7 @@
           }
         },
         {
-          "ranking": 94,
+          "ranking": 93,
           "product": {
             "headerText": "G'woon Krokante muesli appel rozijn",
             "productId": 117929,
@@ -2837,7 +2791,7 @@
           }
         },
         {
-          "ranking": 95,
+          "ranking": 94,
           "product": {
             "headerText": "Sultana Fruitbiscuit aardbei appel 30%",
             "productId": 122406,
@@ -2850,7 +2804,7 @@
           }
         },
         {
-          "ranking": 96,
+          "ranking": 95,
           "product": {
             "headerText": "Sultana Fruitbiscuits banaan appel 30%",
             "productId": 122405,
@@ -2883,7 +2837,7 @@
           }
         },
         {
-          "ranking": 97,
+          "ranking": 96,
           "product": {
             "headerText": "Healthy Hand Appel parten",
             "productId": 125297,
@@ -2916,7 +2870,7 @@
           }
         },
         {
-          "ranking": 98,
+          "ranking": 97,
           "product": {
             "headerText": "1 de Beste Rode kool met appel",
             "productId": 122674,
@@ -2962,7 +2916,7 @@
           }
         },
         {
-          "ranking": 99,
+          "ranking": 98,
           "product": {
             "headerText": "Afwasmiddel appel",
             "productId": 124937,
@@ -2995,7 +2949,7 @@
           }
         },
         {
-          "ranking": 100,
+          "ranking": 99,
           "product": {
             "headerText": "Spaas Geurkaars in glas appel & cinnamon",
             "productId": 112781,
@@ -3008,7 +2962,7 @@
           }
         },
         {
-          "ranking": 101,
+          "ranking": 100,
           "product": {
             "headerText": "Fruity Smoothie 100% smoothie aardbei appel banaan",
             "productId": 113466,
@@ -3021,7 +2975,7 @@
           }
         },
         {
-          "ranking": 102,
+          "ranking": 101,
           "product": {
             "headerText": "1 de Beste Vers sap appel mango chia",
             "productId": 123001,
@@ -3067,7 +3021,7 @@
           }
         },
         {
-          "ranking": 103,
+          "ranking": 102,
           "product": {
             "headerText": "Sap appel mango sinaasappel",
             "productId": 113021,
@@ -3080,7 +3034,7 @@
           }
         },
         {
-          "ranking": 104,
+          "ranking": 103,
           "product": {
             "headerText": "Smoothie aardbei appel banaan",
             "productId": 113023,
@@ -3093,7 +3047,7 @@
           }
         },
         {
-          "ranking": 105,
+          "ranking": 104,
           "product": {
             "headerText": "Zonnatura Bio zonnestroop appel dadel",
             "productId": 120927,
@@ -3133,7 +3087,7 @@
           }
         },
         {
-          "ranking": 106,
+          "ranking": 105,
           "product": {
             "headerText": "Bio+ Rode kool met appel",
             "productId": 116157,
@@ -3146,7 +3100,7 @@
           }
         },
         {
-          "ranking": 107,
+          "ranking": 106,
           "product": {
             "headerText": "Kramer Rode kool met appel biologisch",
             "productId": 680,
@@ -3159,7 +3113,7 @@
           }
         },
         {
-          "ranking": 108,
+          "ranking": 107,
           "product": {
             "headerText": "Groene salade witlof appel",
             "productId": 113478,
@@ -3172,7 +3126,7 @@
           }
         },
         {
-          "ranking": 109,
+          "ranking": 108,
           "product": {
             "headerText": "Liga Haverkick appel 6 stuks",
             "productId": 12557,
@@ -3185,7 +3139,7 @@
           }
         },
         {
-          "ranking": 110,
+          "ranking": 109,
           "product": {
             "headerText": "1 de Beste Frisse fruitdrank appel-bosvruchten",
             "productId": 48339,
@@ -3231,7 +3185,7 @@
           }
         },
         {
-          "ranking": 111,
+          "ranking": 110,
           "product": {
             "headerText": "1 de Beste Appelsap",
             "productId": 83886,
@@ -3277,7 +3231,7 @@
           }
         },
         {
-          "ranking": 112,
+          "ranking": 111,
           "product": {
             "headerText": "1 de Beste Chinese kool",
             "productId": 4445,
@@ -3323,7 +3277,7 @@
           }
         },
         {
-          "ranking": 113,
+          "ranking": 112,
           "product": {
             "headerText": "1 de Beste Fruitsalade luxe",
             "productId": 63125,
@@ -3369,7 +3323,7 @@
           }
         },
         {
-          "ranking": 114,
+          "ranking": 113,
           "product": {
             "headerText": "1 de Beste Knijpfruit appel/aardbei",
             "productId": 64005,
@@ -3415,7 +3369,7 @@
           }
         },
         {
-          "ranking": 115,
+          "ranking": 114,
           "product": {
             "headerText": "1 de Beste Maaltijdsalade tonijn",
             "productId": 71064,
@@ -3467,14 +3421,14 @@
           }
         },
         {
-          "ranking": 116,
+          "ranking": 115,
           "product": {
             "headerText": "Doornbosch Pinot grigio",
             "productId": 99487,
             "brand": "Doornbosch",
             "department": "Dranken, sap, koffie & thee",
             "packaging": "750 ml",
-            "image": "artikelen/454810_2026-11-16_03-01-33-860_eca3fd52-bc60-4c33-b055-91af290b080a.png",
+            "image": "artikelen/454810_2026-11-17_03-01-57-836_2d1753ed-0136-4d50-8715-38889cdd0831.png",
             "webgroup": "Wijn",
             "productAssortment": {
               "productId": 99487,
@@ -3490,7 +3444,7 @@
                 "headerText": "Doornbosch Pinot grigio",
                 "subText": "",
                 "packaging": "750 ml",
-                "image": "artikelen/454810_2026-11-16_03-01-33-860_eca3fd52-bc60-4c33-b055-91af290b080a.png",
+                "image": "artikelen/454810_2026-11-17_03-01-57-836_2d1753ed-0136-4d50-8715-38889cdd0831.png",
                 "department": "Dranken, sap, koffie & thee",
                 "webgroup": "Wijn",
                 "brand": "Doornbosch",
@@ -3513,14 +3467,14 @@
           }
         },
         {
-          "ranking": 117,
+          "ranking": 116,
           "product": {
             "headerText": "Doornbosch Sauvignon blanc-chenin blanc",
             "productId": 74403,
             "brand": "Doornbosch",
             "department": "Dranken, sap, koffie & thee",
             "packaging": "750 ml",
-            "image": "artikelen/429484_2026-11-15_03-03-54-808_ba1ca91e-1a54-4676-9045-cea422d9a07d.png",
+            "image": "artikelen/429484_2026-11-17_03-03-57-567_b517eaf6-25ec-4d92-9dca-d63620412c3b.png",
             "webgroup": "Wijn",
             "productAssortment": {
               "productId": 74403,
@@ -3536,7 +3490,7 @@
                 "headerText": "Doornbosch Sauvignon blanc-chenin blanc",
                 "subText": "",
                 "packaging": "750 ml",
-                "image": "artikelen/429484_2026-11-15_03-03-54-808_ba1ca91e-1a54-4676-9045-cea422d9a07d.png",
+                "image": "artikelen/429484_2026-11-17_03-03-57-567_b517eaf6-25ec-4d92-9dca-d63620412c3b.png",
                 "department": "Dranken, sap, koffie & thee",
                 "webgroup": "Wijn",
                 "brand": "Doornbosch",
@@ -3559,14 +3513,14 @@
           }
         },
         {
-          "ranking": 118,
+          "ranking": 117,
           "product": {
             "headerText": "Pickwick Spices Autumn Storm zwarte thee",
             "productId": 40283,
             "brand": "Pickwick",
             "department": "Dranken, sap, koffie & thee",
             "packaging": "20 zakjes",
-            "image": "artikelen/43780_2026-11-16_03-01-49-192_41bf27a4-a741-4e6f-8f31-8c5b8fb80390.png",
+            "image": "artikelen/43780_2026-11-17_03-02-04-774_9a5304be-ce4c-408f-bdb4-49778df98203.png",
             "webgroup": "Thee",
             "productAssortment": {
               "productId": 40283,
@@ -3582,7 +3536,7 @@
                 "headerText": "Pickwick Spices Autumn Storm zwarte thee",
                 "subText": "",
                 "packaging": "20 zakjes",
-                "image": "artikelen/43780_2026-11-16_03-01-49-192_41bf27a4-a741-4e6f-8f31-8c5b8fb80390.png",
+                "image": "artikelen/43780_2026-11-17_03-02-04-774_9a5304be-ce4c-408f-bdb4-49778df98203.png",
                 "department": "Dranken, sap, koffie & thee",
                 "webgroup": "Thee",
                 "brand": "Pickwick",
@@ -3599,7 +3553,7 @@
           }
         },
         {
-          "ranking": 119,
+          "ranking": 118,
           "product": {
             "headerText": "1 de Beste Appeltaartmix",
             "productId": 57651,
@@ -3645,14 +3599,14 @@
           }
         },
         {
-          "ranking": 120,
+          "ranking": 119,
           "product": {
             "headerText": "Pickwick Spices Turkish Apple zwarte thee",
             "productId": 388,
             "brand": "Pickwick",
             "department": "Dranken, sap, koffie & thee",
             "packaging": "20 zakjes",
-            "image": "artikelen/118036_2026-11-16_03-05-21-560_be2f453d-798b-4eff-9de0-a6047ffce996.png",
+            "image": "artikelen/118036_2026-11-17_03-05-28-332_22bec2ae-4f38-427b-9057-367e2f6e8f83.png",
             "webgroup": "Thee",
             "productAssortment": {
               "productId": 388,
@@ -3668,7 +3622,7 @@
                 "headerText": "Pickwick Spices Turkish Apple zwarte thee",
                 "subText": "",
                 "packaging": "20 zakjes",
-                "image": "artikelen/118036_2026-11-16_03-05-21-560_be2f453d-798b-4eff-9de0-a6047ffce996.png",
+                "image": "artikelen/118036_2026-11-17_03-05-28-332_22bec2ae-4f38-427b-9057-367e2f6e8f83.png",
                 "department": "Dranken, sap, koffie & thee",
                 "webgroup": "Thee",
                 "brand": "Pickwick",
@@ -3685,7 +3639,7 @@
           }
         },
         {
-          "ranking": 121,
+          "ranking": 120,
           "product": {
             "headerText": "Innocent Plus blue spark",
             "productId": 51345,
@@ -3718,7 +3672,7 @@
           }
         },
         {
-          "ranking": 122,
+          "ranking": 121,
           "product": {
             "headerText": "1 de Beste Limonadesiroop framboos",
             "productId": 108598,
@@ -3764,7 +3718,7 @@
           }
         },
         {
-          "ranking": 123,
+          "ranking": 122,
           "product": {
             "headerText": "1 de Beste Limonadesiroop sinaasappel",
             "productId": 108600,
@@ -3810,7 +3764,7 @@
           }
         },
         {
-          "ranking": 124,
+          "ranking": 123,
           "product": {
             "headerText": "Apple Bandit Cider crisp apple",
             "productId": 18276,
@@ -3850,7 +3804,7 @@
           }
         },
         {
-          "ranking": 125,
+          "ranking": 124,
           "product": {
             "headerText": "1 de Beste Limonadesiroop aardbei",
             "productId": 108599,
@@ -3896,7 +3850,7 @@
           }
         },
         {
-          "ranking": 126,
+          "ranking": 125,
           "product": {
             "headerText": "Melkunie Breaker appeltaart",
             "productId": 107907,
@@ -3909,7 +3863,7 @@
           }
         },
         {
-          "ranking": 127,
+          "ranking": 126,
           "product": {
             "headerText": "Optimel Magere kwark appel-kaneel",
             "productId": 716,
@@ -3955,7 +3909,7 @@
           }
         },
         {
-          "ranking": 128,
+          "ranking": 127,
           "product": {
             "headerText": "Quaker Cruesli chocolade",
             "productId": 60461,
@@ -3995,7 +3949,7 @@
           }
         },
         {
-          "ranking": 129,
+          "ranking": 128,
           "product": {
             "headerText": "Napoleon Kogels fruitmix",
             "productId": 108588,
@@ -4028,7 +3982,7 @@
           }
         },
         {
-          "ranking": 130,
+          "ranking": 129,
           "product": {
             "headerText": "1 de Beste Appelcompote",
             "productId": 110324,
@@ -4074,7 +4028,7 @@
           }
         },
         {
-          "ranking": 131,
+          "ranking": 130,
           "product": {
             "headerText": "Bonbébé Biohapje appel-aardbei 6+ maanden",
             "productId": 56560,
@@ -4114,7 +4068,7 @@
           }
         },
         {
-          "ranking": 132,
+          "ranking": 131,
           "product": {
             "headerText": "Bonbébé Biohapje 6+ maanden appel-mango",
             "productId": 55037,
@@ -4154,7 +4108,7 @@
           }
         },
         {
-          "ranking": 133,
+          "ranking": 132,
           "product": {
             "headerText": "Chupa Chups The Best of Lollies Uitdeel Snoep Zak 16 stuks",
             "productId": 14548,
@@ -4187,7 +4141,7 @@
           }
         },
         {
-          "ranking": 134,
+          "ranking": 133,
           "product": {
             "headerText": "Bonbébé Biohapje 6+ maanden appel-perzik-banaan",
             "productId": 56840,
@@ -4227,7 +4181,7 @@
           }
         },
         {
-          "ranking": 135,
+          "ranking": 134,
           "product": {
             "headerText": "Bonbébé Biohapje 6+ maanden appel-wortel-banaan",
             "productId": 57634,
@@ -4267,14 +4221,14 @@
           }
         },
         {
-          "ranking": 136,
+          "ranking": 135,
           "product": {
             "headerText": "Que Mas Pinot grigio",
             "productId": 111734,
             "brand": "Que Mas",
             "department": "Dranken, sap, koffie & thee",
             "packaging": "750 ml",
-            "image": "artikelen/469544_2026-11-16_03-04-10-401_46d5c755-e8ef-4318-872d-eaf410bd43bd.png",
+            "image": "artikelen/469544_2026-11-17_03-03-44-768_1765fe6d-cb97-4110-b51d-4f080e2d88ab.png",
             "webgroup": "Wijn",
             "productAssortment": {
               "productId": 111734,
@@ -4290,7 +4244,7 @@
                 "headerText": "Que Mas Pinot grigio",
                 "subText": "",
                 "packaging": "750 ml",
-                "image": "artikelen/469544_2026-11-16_03-04-10-401_46d5c755-e8ef-4318-872d-eaf410bd43bd.png",
+                "image": "artikelen/469544_2026-11-17_03-03-44-768_1765fe6d-cb97-4110-b51d-4f080e2d88ab.png",
                 "department": "Dranken, sap, koffie & thee",
                 "webgroup": "Wijn",
                 "brand": "Que Mas",
@@ -4313,7 +4267,7 @@
           }
         },
         {
-          "ranking": 137,
+          "ranking": 136,
           "product": {
             "headerText": "Bonbébé Fruithapje 8+ maanden banaan-appel-koek",
             "productId": 55540,
@@ -4353,7 +4307,7 @@
           }
         },
         {
-          "ranking": 138,
+          "ranking": 137,
           "product": {
             "headerText": "Bonbébé Biofruit 8+ maanden appel-banaan-bosbes-framboos",
             "productId": 58823,
@@ -4393,7 +4347,7 @@
           }
         },
         {
-          "ranking": 139,
+          "ranking": 138,
           "product": {
             "headerText": "Bonbébé Fruithapje 8+ maanden druif-appel-wortel-mandarijn",
             "productId": 55937,
@@ -4433,7 +4387,7 @@
           }
         },
         {
-          "ranking": 140,
+          "ranking": 139,
           "product": {
             "headerText": "Kelloggs All bran fruit n fibre",
             "productId": 87439,
@@ -4466,7 +4420,7 @@
           }
         },
         {
-          "ranking": 141,
+          "ranking": 140,
           "product": {
             "headerText": "Bonbébé Fruithapje 12+ maanden perzik-appel-banaan-kiwi",
             "productId": 54325,
@@ -4506,7 +4460,7 @@
           }
         },
         {
-          "ranking": 142,
+          "ranking": 141,
           "product": {
             "headerText": "Bonbébé Fruithapje 6+ maanden appel-bosbes-peer-banaan",
             "productId": 53836,
@@ -4546,7 +4500,7 @@
           }
         },
         {
-          "ranking": 143,
+          "ranking": 142,
           "product": {
             "headerText": "Bonbébé Fruithapje 12+ maanden banaan-appel-peer",
             "productId": 53941,
@@ -4586,7 +4540,7 @@
           }
         },
         {
-          "ranking": 144,
+          "ranking": 143,
           "product": {
             "headerText": "Bonbébé F1201 bio druif app wort banaan pap",
             "productId": 95661,
@@ -4626,7 +4580,7 @@
           }
         },
         {
-          "ranking": 145,
+          "ranking": 144,
           "product": {
             "headerText": "Bonbébé Fruithapje 6+ maanden abrikoos-appel-banaan",
             "productId": 53744,
@@ -4666,7 +4620,7 @@
           }
         },
         {
-          "ranking": 146,
+          "ranking": 145,
           "product": {
             "headerText": "Bonbébé Fruithapje 8+ maanden banaan-appel-yoghurt",
             "productId": 55227,
@@ -4706,7 +4660,7 @@
           }
         },
         {
-          "ranking": 147,
+          "ranking": 146,
           "product": {
             "headerText": "Bonbébé Fruithapje 4+ maanden appel-perzik-banaan",
             "productId": 54662,
@@ -4746,7 +4700,7 @@
           }
         },
         {
-          "ranking": 148,
+          "ranking": 147,
           "product": {
             "headerText": "Bonbébé Fruithapje 6+ maanden appel-peer-aardbei",
             "productId": 54393,
@@ -4786,7 +4740,7 @@
           }
         },
         {
-          "ranking": 149,
+          "ranking": 148,
           "product": {
             "headerText": "Bonbébé Fruithapje 12+ maanden appel-banaan-peer-yoghurt",
             "productId": 53746,
@@ -4799,7 +4753,7 @@
           }
         },
         {
-          "ranking": 150,
+          "ranking": 149,
           "product": {
             "headerText": "Bonbébé Smoothie bio yoghurt-appel-bana-mango",
             "productId": 68912,
@@ -4812,7 +4766,7 @@
           }
         },
         {
-          "ranking": 151,
+          "ranking": 150,
           "product": {
             "headerText": "Chupa Chups Fruit Lollies Uitdeel Snoep Zak 16 stuks",
             "productId": 31073,
@@ -4825,7 +4779,7 @@
           }
         },
         {
-          "ranking": 152,
+          "ranking": 151,
           "product": {
             "headerText": "Nestlé Waterijs pirulo watermelon 5 st.",
             "productId": 103864,
@@ -4858,7 +4812,7 @@
           }
         },
         {
-          "ranking": 153,
+          "ranking": 152,
           "product": {
             "headerText": "Lutti Scoubidou",
             "productId": 98017,
@@ -4871,7 +4825,7 @@
           }
         },
         {
-          "ranking": 154,
+          "ranking": 153,
           "product": {
             "headerText": "Zuivelhoeve Boern yoghurt vanille-appel-kaneel",
             "productId": 119917,
@@ -4884,7 +4838,7 @@
           }
         },
         {
-          "ranking": 155,
+          "ranking": 154,
           "product": {
             "headerText": "Zuivelhoeve Boern yoghurt muesli vanille-appel-kaneel",
             "productId": 119918,
@@ -4897,7 +4851,7 @@
           }
         },
         {
-          "ranking": 156,
+          "ranking": 155,
           "product": {
             "headerText": "G'woon Limonadesiroop aardbei 0%",
             "productId": 122239,
@@ -4910,7 +4864,7 @@
           }
         },
         {
-          "ranking": 157,
+          "ranking": 156,
           "product": {
             "headerText": "G'woon Bosvruchtenlimonade 0.0%",
             "productId": 122413,
@@ -4923,7 +4877,7 @@
           }
         },
         {
-          "ranking": 158,
+          "ranking": 157,
           "product": {
             "headerText": "G'woon Limonadesiroop aardbei",
             "productId": 120466,
@@ -4936,7 +4890,7 @@
           }
         },
         {
-          "ranking": 159,
+          "ranking": 158,
           "product": {
             "headerText": "G'woon Limonadesiroop sinaasappel",
             "productId": 120499,
@@ -4949,7 +4903,7 @@
           }
         },
         {
-          "ranking": 160,
+          "ranking": 159,
           "product": {
             "headerText": "Roomboter appelkoek 100 g",
             "productId": 3510,
@@ -4962,7 +4916,7 @@
           }
         },
         {
-          "ranking": 161,
+          "ranking": 160,
           "product": {
             "headerText": "Frutesse Stroop appel-kaneel",
             "productId": 38938,
@@ -4975,7 +4929,7 @@
           }
         },
         {
-          "ranking": 162,
+          "ranking": 161,
           "product": {
             "headerText": "Quaker Zero sugar added apple pecan & cinnamon",
             "productId": 83143,
@@ -4988,7 +4942,7 @@
           }
         },
         {
-          "ranking": 163,
+          "ranking": 162,
           "product": {
             "headerText": "Ei van columbus",
             "productId": 116857,
@@ -5001,7 +4955,7 @@
           }
         },
         {
-          "ranking": 164,
+          "ranking": 163,
           "product": {
             "headerText": "Ella's Kitchen Sweet potato pumpk apple blueb 4 mnd",
             "productId": 99323,
@@ -5014,7 +4968,7 @@
           }
         },
         {
-          "ranking": 165,
+          "ranking": 164,
           "product": {
             "headerText": "Ella's Kitchen Berries apples banana vanilla 4 mnd",
             "productId": 72108,
@@ -5027,7 +4981,7 @@
           }
         },
         {
-          "ranking": 166,
+          "ranking": 165,
           "product": {
             "headerText": "Appelkoeken",
             "productId": 91838,
@@ -5040,7 +4994,7 @@
           }
         },
         {
-          "ranking": 167,
+          "ranking": 166,
           "product": {
             "headerText": "G'woon Tintelfruit appel-perzik",
             "productId": 86892,
@@ -5053,7 +5007,7 @@
           }
         },
         {
-          "ranking": 168,
+          "ranking": 167,
           "product": {
             "headerText": "Appelflap",
             "productId": 3459,
@@ -5086,7 +5040,7 @@
           }
         },
         {
-          "ranking": 169,
+          "ranking": 168,
           "product": {
             "headerText": "1 de Beste Appelsap",
             "productId": 83299,
@@ -5132,7 +5086,7 @@
           }
         },
         {
-          "ranking": 170,
+          "ranking": 169,
           "product": {
             "headerText": "1 de Beste Appelnektar sap",
             "productId": 108446,
@@ -5178,7 +5132,7 @@
           }
         },
         {
-          "ranking": 171,
+          "ranking": 170,
           "product": {
             "headerText": "Appeltaart roomboter",
             "productId": 97765,
@@ -5211,7 +5165,7 @@
           }
         },
         {
-          "ranking": 172,
+          "ranking": 171,
           "product": {
             "headerText": "1 de Beste Appeldrink 10x200ml",
             "productId": 108109,
@@ -5257,7 +5211,7 @@
           }
         },
         {
-          "ranking": 173,
+          "ranking": 172,
           "product": {
             "headerText": "1 de Beste Appelmoes 0% suikers",
             "productId": 52745,
@@ -5303,7 +5257,7 @@
           }
         },
         {
-          "ranking": 174,
+          "ranking": 173,
           "product": {
             "headerText": "Appelsientje Appelsap Goudappeltje",
             "productId": 7224,
@@ -5336,7 +5290,7 @@
           }
         },
         {
-          "ranking": 175,
+          "ranking": 174,
           "product": {
             "headerText": "Appelsientje Sinaasappelsap",
             "productId": 68962,
@@ -5369,7 +5323,7 @@
           }
         },
         {
-          "ranking": 176,
+          "ranking": 175,
           "product": {
             "headerText": "Hak Appelmoes extra kwaliteit",
             "productId": 3111,
@@ -5408,7 +5362,7 @@
           }
         },
         {
-          "ranking": 177,
+          "ranking": 176,
           "product": {
             "headerText": "Appelsientje Zontomaatje",
             "productId": 63694,
@@ -5441,7 +5395,7 @@
           }
         },
         {
-          "ranking": 178,
+          "ranking": 177,
           "product": {
             "headerText": "Appelsientje Appelsap Goudappeltje",
             "productId": 86733,
@@ -5474,7 +5428,7 @@
           }
         },
         {
-          "ranking": 179,
+          "ranking": 178,
           "product": {
             "headerText": "Appelsientje Sinaasappelsap met extra vruchtvlees",
             "productId": 68964,
@@ -5507,7 +5461,7 @@
           }
         },
         {
-          "ranking": 180,
+          "ranking": 179,
           "product": {
             "headerText": "Hak Appelmoes",
             "productId": 3110,
@@ -5540,7 +5494,7 @@
           }
         },
         {
-          "ranking": 181,
+          "ranking": 180,
           "product": {
             "headerText": "Appelsientje Fruitdrink sinaasappel",
             "productId": 103890,
@@ -5573,7 +5527,7 @@
           }
         },
         {
-          "ranking": 182,
+          "ranking": 181,
           "product": {
             "headerText": "Appelsientje Fruitdrink Goudappeltje",
             "productId": 103891,
@@ -5606,7 +5560,7 @@
           }
         },
         {
-          "ranking": 183,
+          "ranking": 182,
           "product": {
             "headerText": "Hak Appelmoes authentiek extra kwaliteit",
             "productId": 77001,
@@ -5639,7 +5593,7 @@
           }
         },
         {
-          "ranking": 184,
+          "ranking": 183,
           "product": {
             "headerText": "Bio+ Rinse appelstroop",
             "productId": 59111,
@@ -5679,7 +5633,7 @@
           }
         },
         {
-          "ranking": 185,
+          "ranking": 184,
           "product": {
             "headerText": "Appelsientje Appelsap Goudappeltje",
             "productId": 68963,
@@ -5712,7 +5666,7 @@
           }
         },
         {
-          "ranking": 186,
+          "ranking": 185,
           "product": {
             "headerText": "1 de Beste Appeltaart roomboter",
             "productId": 76259,
@@ -5764,7 +5718,7 @@
           }
         },
         {
-          "ranking": 187,
+          "ranking": 186,
           "product": {
             "headerText": "Bio+ Appelsap",
             "productId": 54665,
@@ -5804,7 +5758,7 @@
           }
         },
         {
-          "ranking": 188,
+          "ranking": 187,
           "product": {
             "headerText": "Canisius Appelstroop met peren",
             "productId": 115438,
@@ -5837,7 +5791,7 @@
           }
         },
         {
-          "ranking": 189,
+          "ranking": 188,
           "product": {
             "headerText": "Appelsientje Fruitdrink multifruit",
             "productId": 103892,
@@ -5870,7 +5824,7 @@
           }
         },
         {
-          "ranking": 190,
+          "ranking": 189,
           "product": {
             "headerText": "Bonbébé Diksap 6+ maanden appel-aardbei",
             "productId": 53466,
@@ -5910,7 +5864,7 @@
           }
         },
         {
-          "ranking": 191,
+          "ranking": 190,
           "product": {
             "headerText": "Hak Appelmoes met een vleugje kaneel",
             "productId": 3109,
@@ -5949,7 +5903,7 @@
           }
         },
         {
-          "ranking": 192,
+          "ranking": 191,
           "product": {
             "headerText": "Canisius Appelstroop blik",
             "productId": 113878,
@@ -5982,7 +5936,7 @@
           }
         },
         {
-          "ranking": 193,
+          "ranking": 192,
           "product": {
             "headerText": "Appelsientje Fruitdrink Mango",
             "productId": 103893,
@@ -6015,7 +5969,7 @@
           }
         },
         {
-          "ranking": 194,
+          "ranking": 193,
           "product": {
             "headerText": "Hak Appelmoes 0% suiker",
             "productId": 27099,
@@ -6028,7 +5982,7 @@
           }
         },
         {
-          "ranking": 195,
+          "ranking": 194,
           "product": {
             "headerText": "Speculaas appeltaart",
             "productId": 97878,
@@ -6037,11 +5991,31 @@
             "packaging": "Per stuk",
             "image": "artikelen/172857_1_455649_638965674931067069.png",
             "webgroup": "Broodjes & snacks",
-            "productAssortment": null
+            "productAssortment": {
+              "productId": 97878,
+              "normalPrice": 2.9900,
+              "offerPrice": 0.0,
+              "isSingleUsePlastic": false,
+              "singleUsePlasticValue": 0,
+              "startDate": "2025-10-18T05:05:00.000+02:00",
+              "endDate": "2049-12-31T23:59:59.000+01:00",
+              "productOffer": null,
+              "productInformation": {
+                "productId": 97878,
+                "headerText": "Speculaas appeltaart",
+                "subText": "",
+                "packaging": "Per stuk",
+                "image": "artikelen/172857_1_455649_638965674931067069.png",
+                "department": "Brood, beleg & koek",
+                "webgroup": "Broodjes & snacks",
+                "brand": "",
+                "logos": []
+              }
+            }
           }
         },
         {
-          "ranking": 196,
+          "ranking": 195,
           "product": {
             "headerText": "DekaVers Appelflap",
             "productId": 86201,
@@ -6054,7 +6028,7 @@
           }
         },
         {
-          "ranking": 197,
+          "ranking": 196,
           "product": {
             "headerText": "Appelsientje Goudappeltje troebel",
             "productId": 116116,
@@ -6067,7 +6041,7 @@
           }
         },
         {
-          "ranking": 198,
+          "ranking": 197,
           "product": {
             "headerText": "Appelsientje Vezelrijk multifruit",
             "productId": 124233,
@@ -6100,7 +6074,7 @@
           }
         },
         {
-          "ranking": 199,
+          "ranking": 198,
           "product": {
             "headerText": "Appelsientje Vezelrijk peer",
             "productId": 124232,
@@ -6133,7 +6107,7 @@
           }
         },
         {
-          "ranking": 200,
+          "ranking": 199,
           "product": {
             "headerText": "Appelsientje Kids fruitdrink framboos 6 st.",
             "productId": 124190,
@@ -6166,7 +6140,7 @@
           }
         },
         {
-          "ranking": 201,
+          "ranking": 200,
           "product": {
             "headerText": "1 de Beste Appelmoes 0% suiker 2x6",
             "productId": 126910,
@@ -6212,7 +6186,7 @@
           }
         },
         {
-          "ranking": 202,
+          "ranking": 201,
           "product": {
             "headerText": "1 de Beste Appelmoes 0% toegevoegde suiker",
             "productId": 123586,
@@ -6258,7 +6232,7 @@
           }
         },
         {
-          "ranking": 203,
+          "ranking": 202,
           "product": {
             "headerText": "Echte Enkhuizer Mini jodenkoek appeltaart",
             "productId": 124914,
@@ -6291,7 +6265,7 @@
           }
         },
         {
-          "ranking": 204,
+          "ranking": 203,
           "product": {
             "headerText": "Olvarit 6m405 appel-sinaasappel-wortel",
             "productId": 112297,
@@ -6304,7 +6278,7 @@
           }
         },
         {
-          "ranking": 205,
+          "ranking": 204,
           "product": {
             "headerText": "1 de Beste Appelmoes extra kwaliteit",
             "productId": 123582,
@@ -6350,7 +6324,7 @@
           }
         },
         {
-          "ranking": 206,
+          "ranking": 205,
           "product": {
             "headerText": "1 de Beste Appelmoes 0% toegevoegde suiker",
             "productId": 123585,
@@ -6396,7 +6370,7 @@
           }
         },
         {
-          "ranking": 207,
+          "ranking": 206,
           "product": {
             "headerText": "1 de Beste Appelmoes extra kwaliteit",
             "productId": 123581,
@@ -6442,7 +6416,7 @@
           }
         },
         {
-          "ranking": 208,
+          "ranking": 207,
           "product": {
             "headerText": "Vers afbak Roomboter appeltaart",
             "productId": 104493,
@@ -6455,7 +6429,7 @@
           }
         },
         {
-          "ranking": 209,
+          "ranking": 208,
           "product": {
             "headerText": "Hak Rabarbercompote",
             "productId": 5323,
@@ -6501,7 +6475,7 @@
           }
         },
         {
-          "ranking": 210,
+          "ranking": 209,
           "product": {
             "headerText": "Hak Appelcompote",
             "productId": 4968,
@@ -6514,7 +6488,7 @@
           }
         },
         {
-          "ranking": 211,
+          "ranking": 210,
           "product": {
             "headerText": "1 de Beste Appelcompote",
             "productId": 123583,
@@ -6560,7 +6534,7 @@
           }
         },
         {
-          "ranking": 212,
+          "ranking": 211,
           "product": {
             "headerText": "Vleeschmeesters Varkensschnitzel gepaneerd 2 stuks",
             "productId": 99043,
@@ -6600,7 +6574,7 @@
           }
         },
         {
-          "ranking": 213,
+          "ranking": 212,
           "product": {
             "headerText": "1 de Beste Dubbeldrank perzik-sinaasappel",
             "productId": 83815,
@@ -6646,7 +6620,7 @@
           }
         },
         {
-          "ranking": 214,
+          "ranking": 213,
           "product": {
             "headerText": "1 de Beste Smoothie aardbei",
             "productId": 82486,
@@ -6692,7 +6666,7 @@
           }
         },
         {
-          "ranking": 215,
+          "ranking": 214,
           "product": {
             "headerText": "1 de Beste Smoothie avocado-mango-kokos",
             "productId": 82474,
@@ -6738,7 +6712,7 @@
           }
         },
         {
-          "ranking": 216,
+          "ranking": 215,
           "product": {
             "headerText": "1 de Beste Smoothie mango-passievrucht",
             "productId": 82473,
@@ -6784,7 +6758,7 @@
           }
         },
         {
-          "ranking": 217,
+          "ranking": 216,
           "product": {
             "headerText": "1 de Beste Smoothie aardbei-yoghurt",
             "productId": 82479,
@@ -6830,7 +6804,7 @@
           }
         },
         {
-          "ranking": 218,
+          "ranking": 217,
           "product": {
             "headerText": "Koopmans Appeltaartmix extra deeg",
             "productId": 63302,
@@ -6863,7 +6837,7 @@
           }
         },
         {
-          "ranking": 219,
+          "ranking": 218,
           "product": {
             "headerText": "Koopmans Appeltaartmix",
             "productId": 63021,
@@ -6896,7 +6870,7 @@
           }
         },
         {
-          "ranking": 220,
+          "ranking": 219,
           "product": {
             "headerText": "Mentos Sour gum green apple 28 st.",
             "productId": 114587,
@@ -6929,7 +6903,7 @@
           }
         },
         {
-          "ranking": 221,
+          "ranking": 220,
           "product": {
             "headerText": "Look O Look Sweet & sour topmix",
             "productId": 5926,
@@ -6962,7 +6936,7 @@
           }
         },
         {
-          "ranking": 222,
+          "ranking": 221,
           "product": {
             "headerText": "Deka's keuken Hachee met rode kool",
             "productId": 113773,
@@ -6975,7 +6949,7 @@
           }
         },
         {
-          "ranking": 223,
+          "ranking": 222,
           "product": {
             "headerText": "G'woon Premium krokante muesli appel-kaneel",
             "productId": 123438,

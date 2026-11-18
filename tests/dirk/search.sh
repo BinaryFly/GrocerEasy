@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 query="query {
   searchProducts(search: \"$1\", limit: 500) {
