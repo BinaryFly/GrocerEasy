@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Nectarines",
+    "price": 2.69,
+    "quantity": "500 g",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcp69f6a763bc544b28819784c2fe7d3b5e.png"
+  },
+  {
+    "title": "Ovenfriet",
+    "price": 1.48,
+    "quantity": "1 kg",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcpdb517401e9e441c192b31b3cd3002242.png"
+  },
+  {
+    "title": "Pringles",
+    "price": 1.35,
+    "quantity": "165 g",
+    "isAction": true,
+    "image": "https://www.lidl.nl/assets/gcpe039d849d94640eea7e23c04a597eb68.png"
+  },
+  {
+    "title": "Erwten met worteltjes",
+    "price": 1.38,
+    "quantity": "800 g",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcpdb848caa88fa4bdbbd49e5ef82b72004.png"
+  },
+  {
+    "title": "Tijgerbroodje",
+    "price": 0.25,
+    "quantity": "Per stuk",
+    "isAction": true,
+    "image": "https://www.lidl.nl/assets/gcp0724a7b4be044938aecd35e53a7579f6.png"
+  },
+  {
+    "title": "Limoenen",
+    "price": 0.99,
+    "quantity": "3 Stk.",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcpbd243a480d68464d9d94a92d80dfd283.png"
+  },
+  {
+    "title": "Ovenfrikandellen",
+    "price": 1.79,
+    "quantity": "350 g",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcp448b870b0a0f476b88035024f0f2edc1.png"
+  },
+  {
+    "title": "Bamischijven",
+    "price": 2.89,
+    "quantity": "400 g",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcpfb2c5a4e852b462bb31aec9982d8315c.png"
+  },
+  {
+    "title": "Bamischijven",
+    "price": 2.19,
+    "quantity": "6 x 80 g",
+    "isAction": false,
+    "image": "https://www.lidl.nl/assets/gcp57728a53a84443da962ca9d70c08cf86.png"
+  }
+]

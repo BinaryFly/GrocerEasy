@@ -1,0 +1,4680 @@
+{
+  "type": "search",
+  "version": "v2.0.0",
+  "engine": "ldt-searcher",
+  "variant": {
+    "id": "ff01_flat-articles_default",
+    "testName": "engine",
+    "trackingSolution": "GA",
+    "active": true,
+    "xPayload": {
+      "groupVariantsAsFlatArticles": false,
+      "engine": "etl-ldt"
+    }
+  },
+  "xPayload": {
+    "keywordResults": {
+      "num_items_found": 0
+    }
+  },
+  "id": "4cf43dbb-070a-41c7-bb87-1caafcccf6d4",
+  "q": "Yoghurt",
+  "locale": "nl_NL",
+  "assortment": "NL",
+  "resultType": "search",
+  "rendering": {
+    "breadcrumb": false
+  },
+  "masterQuery": "yoghurt",
+  "numFound": 9,
+  "offset": 0,
+  "fetchsize": 48,
+  "maxfetchsize": 1000,
+  "sort": {
+    "code": "relevancy",
+    "label": "Relevantie",
+    "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=relevancy&category=Eten+%26+drinken&store=1",
+    "link": {
+      "type": "search",
+      "filter": {
+        "category": [
+          "Eten & drinken"
+        ],
+        "store": [
+          "1"
+        ]
+      },
+      "sort": "relevancy",
+      "q": "Yoghurt"
+    }
+  },
+  "selections": {
+    "values": [
+      {
+        "code": "store",
+        "value": "1",
+        "label": "In de winkel",
+        "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken",
+        "link": {
+          "type": "search",
+          "filter": {
+            "category": [
+              "Eten & drinken"
+            ]
+          },
+          "q": "Yoghurt"
+        },
+        "rendering": {
+          "style": "TOGGLE",
+          "searchable": false,
+          "selectedPosition": "ABOVE",
+          "renderLabel": true,
+          "collapsible": true
+        }
+      },
+      {
+        "code": "category",
+        "value": "10068374",
+        "label": "Eten & drinken",
+        "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1",
+        "link": {
+          "type": "search",
+          "filter": {
+            "store": [
+              "1"
+            ]
+          },
+          "q": "Yoghurt"
+        },
+        "rendering": {
+          "style": "TEXT",
+          "searchable": false,
+          "selectedPosition": "BELOW",
+          "renderLabel": true,
+          "collapsible": true
+        }
+      }
+    ],
+    "resetAll": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt",
+    "resetLink": {
+      "type": "search",
+      "filter": {},
+      "q": "Yoghurt"
+    }
+  },
+  "sorts": [
+    {
+      "code": "relevancy",
+      "label": "Relevantie",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=relevancy&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "relevancy",
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "price",
+      "label": "Prijs laag-hoog",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=price&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "price",
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "price-desc",
+      "label": "Prijs hoog-laag",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=price-desc&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "price-desc",
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "firstOnlineDate-desc",
+      "label": "Nieuwste artikelen",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=firstOnlineDate-desc&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "firstOnlineDate-desc",
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "ratingScore-desc",
+      "label": "Beoordeling",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=ratingScore-desc&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "ratingScore-desc",
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "sh_carts-desc",
+      "label": "Bestseller",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=sh_carts-desc&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "sh_carts-desc",
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "percentageDiscount-desc",
+      "label": "Deals & hoogste kortingen eerst",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&sort=percentageDiscount-desc&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "sort": "percentageDiscount-desc",
+        "q": "Yoghurt"
+      }
+    }
+  ],
+  "facets": [
+    {
+      "type": "TEXT",
+      "code": "category",
+      "label": "Categorie",
+      "selector": "REFINE",
+      "rendering": {
+        "style": "TEXT",
+        "searchable": false,
+        "selectedPosition": "BELOW",
+        "renderLabel": true,
+        "collapsible": true
+      },
+      "resetURL": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1",
+      "resetLink": {
+        "type": "search",
+        "filter": {
+          "store": [
+            "1"
+          ]
+        },
+        "q": "Yoghurt"
+      },
+      "topvalues": [
+        {
+          "type": "TEXT",
+          "label": "Eten & drinken",
+          "selected": true,
+          "count": 9,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1",
+          "link": {
+            "type": "search",
+            "filter": {
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "children": [
+            {
+              "type": "TEXT",
+              "label": "Groenten & fruit",
+              "selected": false,
+              "count": 2,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FGroenten+%26+fruit",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Groenten & fruit"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10071012"
+            },
+            {
+              "type": "TEXT",
+              "label": "Bakkerij",
+              "selected": false,
+              "count": 1,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FBakkerij",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Bakkerij"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10096086"
+            },
+            {
+              "type": "TEXT",
+              "label": "Diepvries",
+              "selected": false,
+              "count": 5,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FDiepvries",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Diepvries"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10071049"
+            },
+            {
+              "type": "TEXT",
+              "label": "Snoep & snacks",
+              "selected": false,
+              "count": 1,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FSnoep+%26+snacks",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Snoep & snacks"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10096205"
+            }
+          ],
+          "value": "10068374"
+        }
+      ],
+      "values": [
+        {
+          "type": "TEXT",
+          "label": "Eten & drinken",
+          "selected": true,
+          "count": 9,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1",
+          "link": {
+            "type": "search",
+            "filter": {
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "children": [
+            {
+              "type": "TEXT",
+              "label": "Groenten & fruit",
+              "selected": false,
+              "count": 2,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FGroenten+%26+fruit",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Groenten & fruit"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10071012"
+            },
+            {
+              "type": "TEXT",
+              "label": "Bakkerij",
+              "selected": false,
+              "count": 1,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FBakkerij",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Bakkerij"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10096086"
+            },
+            {
+              "type": "TEXT",
+              "label": "Diepvries",
+              "selected": false,
+              "count": 5,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FDiepvries",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Diepvries"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10071049"
+            },
+            {
+              "type": "TEXT",
+              "label": "Snoep & snacks",
+              "selected": false,
+              "count": 1,
+              "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1&category=Eten+%26+drinken%2FSnoep+%26+snacks",
+              "link": {
+                "type": "search",
+                "filter": {
+                  "category": [
+                    "Eten & drinken/Snoep & snacks"
+                  ],
+                  "store": [
+                    "1"
+                  ]
+                },
+                "q": "Yoghurt"
+              },
+              "children": [],
+              "value": "10096205"
+            }
+          ],
+          "value": "10068374"
+        }
+      ]
+    },
+    {
+      "type": "RANGE",
+      "code": "price",
+      "label": "Prijs",
+      "selector": "REFINE",
+      "rendering": {
+        "style": "SLIDER",
+        "searchable": false,
+        "selectedPosition": "BELOW",
+        "renderLabel": true,
+        "collapsible": true
+      },
+      "unit": "€",
+      "baseURL": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1",
+      "baseLink": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "q": "Yoghurt"
+      },
+      "globalMin": {
+        "type": "NumericValue",
+        "unit": "€",
+        "value": 0.0
+      },
+      "globalMax": {
+        "type": "NumericValue",
+        "unit": "€",
+        "value": 3.0
+      },
+      "min": {
+        "type": "NumericValue",
+        "unit": "€",
+        "value": 0.0
+      },
+      "max": {
+        "type": "NumericValue",
+        "unit": "€",
+        "value": 3.0
+      },
+      "selectedMin": {
+        "type": "SelectedNumericValue",
+        "value": 0.0
+      },
+      "selectedMax": {
+        "type": "SelectedNumericValue",
+        "value": 3.0
+      },
+      "values": []
+    },
+    {
+      "type": "TEXT",
+      "code": "brand",
+      "label": "Merk",
+      "selector": "OR",
+      "rendering": {
+        "style": "TEXT",
+        "searchable": true,
+        "selectedPosition": "ABOVE",
+        "renderLabel": true,
+        "collapsible": true
+      },
+      "topvalues": [
+        {
+          "type": "TEXT",
+          "label": "Biz Biz",
+          "selected": false,
+          "count": 2,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=Biz+Biz",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "Biz Biz"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "Biz Biz"
+        },
+        {
+          "type": "TEXT",
+          "label": "Freshona",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=Freshona",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "Freshona"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "Freshona"
+        },
+        {
+          "type": "TEXT",
+          "label": "Harvest Basket",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=Harvest+Basket",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "Harvest Basket"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "Harvest Basket"
+        },
+        {
+          "type": "TEXT",
+          "label": "MORA",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=MORA",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "MORA"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "MORA"
+        },
+        {
+          "type": "TEXT",
+          "label": "PRINGLES",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=PRINGLES",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "PRINGLES"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "PRINGLES"
+        }
+      ],
+      "values": [
+        {
+          "type": "TEXT",
+          "label": "Biz Biz",
+          "selected": false,
+          "count": 2,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=Biz+Biz",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "Biz Biz"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "Biz Biz"
+        },
+        {
+          "type": "TEXT",
+          "label": "Freshona",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=Freshona",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "Freshona"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "Freshona"
+        },
+        {
+          "type": "TEXT",
+          "label": "Harvest Basket",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=Harvest+Basket",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "Harvest Basket"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "Harvest Basket"
+        },
+        {
+          "type": "TEXT",
+          "label": "MORA",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=MORA",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "MORA"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "MORA"
+        },
+        {
+          "type": "TEXT",
+          "label": "PRINGLES",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=PRINGLES",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "PRINGLES"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "PRINGLES"
+        },
+        {
+          "type": "TEXT",
+          "label": "RYNECZEK LIDLA",
+          "selected": false,
+          "count": 1,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&brand=RYNECZEK+LIDLA",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ],
+              "brand": [
+                "RYNECZEK LIDLA"
+              ],
+              "store": [
+                "1"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "RYNECZEK LIDLA"
+        }
+      ]
+    },
+    {
+      "type": "TEXT",
+      "code": "store",
+      "label": "store",
+      "selector": "OR",
+      "rendering": {
+        "style": "TOGGLE",
+        "searchable": false,
+        "selectedPosition": "ABOVE",
+        "renderLabel": true,
+        "collapsible": true
+      },
+      "resetURL": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken",
+      "resetLink": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ]
+        },
+        "q": "Yoghurt"
+      },
+      "topvalues": [
+        {
+          "type": "TEXT",
+          "label": "In de winkel",
+          "selected": true,
+          "count": 9,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "1"
+        }
+      ],
+      "values": [
+        {
+          "type": "TEXT",
+          "label": "In de winkel",
+          "selected": true,
+          "count": 9,
+          "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken",
+          "link": {
+            "type": "search",
+            "filter": {
+              "category": [
+                "Eten & drinken"
+              ]
+            },
+            "q": "Yoghurt"
+          },
+          "value": "1"
+        }
+      ]
+    },
+    {
+      "type": "SWITCH",
+      "code": "newArticleFlag",
+      "label": "Nieuw",
+      "selector": "REFINE",
+      "rendering": {
+        "style": "TOGGLE",
+        "searchable": false,
+        "selectedPosition": "ABOVE",
+        "renderLabel": true,
+        "collapsible": true
+      },
+      "value": {
+        "label": "Nieuw",
+        "selected": false,
+        "count": 9,
+        "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1&newArticleFlag=1",
+        "link": {
+          "type": "search",
+          "filter": {
+            "newArticleFlag": [
+              "1"
+            ],
+            "category": [
+              "Eten & drinken"
+            ],
+            "store": [
+              "1"
+            ]
+          },
+          "q": "Yoghurt"
+        }
+      }
+    }
+  ],
+  "items": [
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11029976",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "HTicSXbOyFlUt5xDhpEwtJv25dspX3ZeOLH9t5hcwdRrXx+w5OXJK9yaBdY=",
+          "keywordScore": "U0mJvUuUpiRTrnjJRlw1WPYGtTxn3XYF/HfB+UUjdDpJ8I6LbYMZzCg/MWA=",
+          "semanticScore": "X4ESlDe7EjChA+vWbVYgz3yBOFheE8LyCNFmrkB7zLMGxLVYw+W1DYDwm+Q=",
+          "keywordScoreRaw": "ZqCQlueYmvOPvsIl6fMkLX7SGfW8G+38HCLYsTZHrLjFzLVooJeE0eH9pf8=",
+          "ratingScore": "fF4WDlmF5w/WNKNpAHSzNS88AfkysbucpkFNk5OXJ7iI1+3mhZOC5ijrRys=",
+          "freshnessScore": "a0TZthKW5FOJLbEn2F7w+XaLCNoKSRACaO8RMAF1y/hm5HfgVVwt6FwI9WU=",
+          "searchHubImpressions": "G33hMu6q5baV7MUyz48CXc5Da1M6VOEUFrZyG2X9+eJ9UiJ7tyXlawRJR18=",
+          "searchHubClicks": "U/0YOYVRwSjeDMrkD9GoaQ8qa3oNZNSWQQKDp+ntgJeAe9SESSLhBHE1N3g=",
+          "searchHubCarts": "At+qdctCP0sQNkZsrXzgIoJiEUpM4qg6nPIQcEtMG8GLz/4tK2s3lW8qYnc=",
+          "businessRuleFactor": "yhNbUn1hHIsjJT0XOeAjaL/ZD4ofOdJb0MeqqWj8fM9MRNyMyiSO9XVDcwA="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794870009059432,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "RYNECZEK LIDLA",
+            "url": "/q/search?q=ryneczek+lidla",
+            "showBrand": false
+          },
+          "canonicalPath": "/p/nectarines/p11029976",
+          "canonicalUrl": "/p/nectarines/p11029976",
+          "category": "F+V",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11029976_20b54650",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11029976_8e5515e7",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11029976",
+          "flashSales": false,
+          "fullTitle": "Nectarines",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "80385"
+          ],
+          "image": "https://www.lidl.nl/assets/gcp69f6a763bc544b28819784c2fe7d3b5e.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcp69f6a763bc544b28819784c2fe7d3b5e.png",
+            "accessibility": "Hele nectarine en een halve nectarine met zichtbare pit."
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11029976,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcp69f6a763bc544b28819784c2fe7d3b5e.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcp69f6a763bc544b28819784c2fe7d3b5e.png",
+              "accessibility": "Hele nectarine en een halve nectarine met zichtbare pit."
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Hele nectarine en een halve nectarine met zichtbare pit.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp60f0dc728f5c4cc4885e32c0f4aa86d4.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp69f6a763bc544b28819784c2fe7d3b5e.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "F+V",
+            "fullTitle": "Nectarines",
+            "moreDetails": "Meer informatie",
+            "title": "Nectarines",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Groenten & fruit/Fruit",
+            "wonCategoryPrimaryPath": "0/17/1710/171010"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "0080385",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "1 KG = 5.38"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "500 g"
+            },
+            "price": 2.69,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11029976,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "1 KG = 5.38"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "500 g"
+                },
+                "price": 2.69,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-11-16T23:00Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794870008,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Nectarines",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11029976,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008017",
+                "name": "Groente en Fruit bij Lidl",
+                "url": "/c/store/assortiment-groente-en-fruit/a10008017"
+              }
+            ]
+          ],
+          "fullTitle": "Nectarines",
+          "ean": "20247768",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              }
+            ]
+          ],
+          "lists": [
+            0
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071012",
+                "name": "Groenten & fruit",
+                "url": "/h/groenten-fruit/h10071012"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10095592",
+                "name": "Fruit",
+                "url": "/h/fruit/h10095592"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171010",
+              "isMain": true,
+              "name": "Fruit",
+              "parent": "1710",
+              "superCategories": [
+                {
+                  "code": "1710",
+                  "name": "Groenten & fruit",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11029976"
+      },
+      "tracking": {
+        "position": 1,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11029976",
+          "searchTrackingTitle": "Nectarines",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11029976",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 1,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "F+V"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11009764",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "/NZmj1hQVOWhroLdIDEpH3/w/DG0/ynvuAr778MZCgWXk+F6t++AzbgHQ9I=",
+          "keywordScore": "geRu23IgfUu+PXqVzhy/XtHAFQbbOiPfhcxzc0HGMPzWiaK1KVcr4VGIjE0=",
+          "semanticScore": "pq3ZahkAqSvcDTuaVAJ2cMPuBqm+QJ0gKcyEoJV4Mo3WKVKGUkcJRIzyIMI=",
+          "keywordScoreRaw": "+X/xAM2uGPNdHTgXktN8pbTxjh6GT1FQU/kFf9gNaUTTwQBELkEuGMXDxvw=",
+          "ratingScore": "lD1WU8w99QqWfxKs4VVsKKoYAwEZgjfosOrgi27WCbRgnzGadbPIQ0U1gYE=",
+          "freshnessScore": "GsU/OQmFBO9BeB/sehy3j5rLjYpkMBX0i83jYjoG89XXM7WqcTMSNINKPMI=",
+          "searchHubImpressions": "Vw7sNvvXYoHInQ1t7Q2+AA1dkxjZD+B33xaHpZ5fGp6luRh7Tv8SaS/RfZI=",
+          "searchHubClicks": "F+luw8erLxcYKL1PEORdCl2t4Em3neID8IkkvOTcS3xOhwZ6XEMDUC1YvpI=",
+          "searchHubCarts": "BzmchFf5nlmJg7WMLgXfQCZ8gMjizoIj5TE/Q/8iouSJ5LGlHDp47OqsycQ=",
+          "businessRuleFactor": "rpRXapOx4M+6UO/GMxTd9ykUmnOS38UPzQM72bXEwZvLhogY2crnbXeYWE8="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794820303184234,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "Harvest Basket",
+            "url": "/q/search?q=harvest+basket",
+            "showBrand": true
+          },
+          "canonicalPath": "/p/harvest-basket-ovenfriet/p11009764",
+          "canonicalUrl": "/p/harvest-basket-ovenfriet/p11009764",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11009764_e8e9b12b",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11009764_1d07ca9d",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11009764",
+          "flashSales": false,
+          "fullTitle": "Harvest Basket Ovenfriet",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "31523"
+          ],
+          "image": "https://www.lidl.nl/assets/gcpdb517401e9e441c192b31b3cd3002242.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcpdb517401e9e441c192b31b3cd3002242.png",
+            "accessibility": "Harvest Basket ovenfrieten klassiek gesneden, zak van 1 kg"
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11009764,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcpdb517401e9e441c192b31b3cd3002242.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcpdb517401e9e441c192b31b3cd3002242.png",
+              "accessibility": "Harvest Basket ovenfrieten klassiek gesneden, zak van 1 kg"
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Harvest Basket ovenfrieten klassiek gesneden, zak van 1 kg",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpf1aa06d05cc84528a48e30dba3eb3ca0.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpdb517401e9e441c192b31b3cd3002242.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpdd2d11033034437093f375f926d668ef.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpd6bebd8197584416a0bd7d2dacfd34fe.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "fullTitle": "Harvest Basket Ovenfriet",
+            "moreDetails": "Meer informatie",
+            "title": "Ovenfriet",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Diepvriesvoeding (Diepvriesvoeding)/Diepvriespizza's & snacks",
+            "wonCategoryPrimaryPath": "0/17/1716/171611"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "0031523",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "1 kg"
+            },
+            "price": 1.48,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11009764,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "1 kg"
+                },
+                "price": 1.48,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-11-03T23:00Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794820303,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Ovenfriet",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11009764,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008777",
+                "name": "Assortiment Diepvries",
+                "url": "/c/store/assortiment-diepvries/a10008777"
+              }
+            ]
+          ],
+          "fullTitle": "Harvest Basket Ovenfriet",
+          "ean": "20847593",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              }
+            ]
+          ],
+          "lists": [
+            0
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071049",
+                "name": "Diepvries",
+                "url": "/h/diepvriesvoeding-diepvriesvoeding/h10071049"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096197",
+                "name": "Diepvriespizza's & snacks",
+                "url": "/h/diepvriespizza-s-snacks/h10096197"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171611",
+              "isMain": true,
+              "name": "Diepvriespizza's & snacks",
+              "parent": "1716",
+              "superCategories": [
+                {
+                  "code": "1716",
+                  "name": "Diepvriesvoeding (Diepvriesvoeding)",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11009764"
+      },
+      "tracking": {
+        "position": 2,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11009764",
+          "searchTrackingTitle": "Ovenfriet",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11009764",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 2,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11005946",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "kwLvscRavp9zGGwUdyfmAlMnNQVxOMEti1Z+kpaPm3brnWWA+FTkY37sMOI=",
+          "keywordScore": "gCz0ANASF6XAh8L2+XdFW5tJ1zgBK10s76ufx1DJvXS5cwudaGXX3kNozz8=",
+          "semanticScore": "0pwO2H+R/tKQLQAOVqznbxHA5QYXP588bXOMklf+IFFbUBjcWQixCAM6V20=",
+          "keywordScoreRaw": "v0Gq7JnIjgG9m5dZmamTLjZywNLdtT9cHdnP8KunT8bKZudBdBQ8ZxQebc4=",
+          "ratingScore": "XtgurfnBPXUoi70/Okcr6ERCfSVnQBkDo7/uNgu9h+5mvhTFng1tiLVRRqs=",
+          "freshnessScore": "2lqseH0njsRaSI4UDpbcZFus2lQHk1SUQSJLWdmAkHy7nfI+EoVd2ZPP1po=",
+          "searchHubImpressions": "+gQY+Pk/fjjhMQV23fyYZuvUEPlq7yZKydNMQPt+3sYsHrPj62fovG3Zi+0=",
+          "searchHubClicks": "VttHj2FitwRnjPpF9eQCMpDpAiJfp3h7oFZv/BeKLBF4fjba3DyLJ6p/l4I=",
+          "searchHubCarts": "8DArVuyJgZy1uiz4QYfJ9f5tj9Ugecza+KxymczWDgoRIHizsaWg5TBZnEY=",
+          "businessRuleFactor": "FpAIZJKS2euOMa3kXPdLMQRglXoHeee5TpKUIxzfFchK1KgNqfUS3EhkNBE="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794697824723529,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "PRINGLES",
+            "url": "/q/search?q=pringles",
+            "id": "PRIG",
+            "showBrand": true
+          },
+          "canonicalPath": "/p/pringles-pringles/p11005946",
+          "canonicalUrl": "/p/pringles-pringles/p11005946",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11005946_c557f257",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11005946_e67a1220",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11005946",
+          "flashSales": false,
+          "fullTitle": "PRINGLES Pringles",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "181017"
+          ],
+          "image": "https://www.lidl.nl/assets/gcpe039d849d94640eea7e23c04a597eb68.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcpe039d849d94640eea7e23c04a597eb68.png",
+            "accessibility": "Rood-blauwe chipsverpakking met knapperige chips en voedingsinformatie."
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11005946,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcpe039d849d94640eea7e23c04a597eb68.png",
+            "https://www.lidl.nl/assets/gcpac2e7e3b7f87429dab5c0ce6abfad553.png",
+            "https://www.lidl.nl/assets/gcpc770cd2f25cd4f88a03483285b2210f4.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcpe039d849d94640eea7e23c04a597eb68.png",
+              "accessibility": "Rood-blauwe chipsverpakking met knapperige chips en voedingsinformatie."
+            },
+            {
+              "image": "https://www.lidl.nl/assets/gcpac2e7e3b7f87429dab5c0ce6abfad553.png",
+              "accessibility": "Pringles Original chips in rode koker met Mr. P en de tekst 'SCAN POP PLAY'."
+            },
+            {
+              "image": "https://www.lidl.nl/assets/gcpc770cd2f25cd4f88a03483285b2210f4.png",
+              "accessibility": "Pringles Hot & Spicy chips in zwarte koker met vlammen en chilipepers."
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Rood-blauwe chipsverpakking met knapperige chips en voedingsinformatie.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp7c850309605b4329b90e2dca026cb565.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpe039d849d94640eea7e23c04a597eb68.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpe32ed8baa02f47578a7a3573daa45688.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpada5a6770d1e48caad8e170973481da3.png"
+                  }
+                }
+              ]
+            },
+            {
+              "accessibility": "Pringles Original chips in rode koker met Mr. P en de tekst 'SCAN POP PLAY'.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpe93f1285a3654031bf8643d92c4c7c5f.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpac2e7e3b7f87429dab5c0ce6abfad553.png"
+                  }
+                }
+              ]
+            },
+            {
+              "accessibility": "Pringles Hot & Spicy chips in zwarte koker met vlammen en chilipepers.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpa7e2bb81e32b406bbfed6180dda69f56.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpc770cd2f25cd4f88a03483285b2210f4.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "description": "<ul><li>In verschillende varianten</li><li>165 g</li></ul>",
+            "fullTitle": "PRINGLES Pringles",
+            "moreDetails": "Meer informatie",
+            "title": "Pringles",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Snoep & snacks/Hartige hapjes",
+            "wonCategoryPrimaryPath": "0/17/1744/174411"
+          },
+          "lidlPlus": [
+            {
+              "price": {
+                "basePrice": {
+                  "prefix": false
+                },
+                "discount": {
+                  "discountHasStar": false,
+                  "fromNormalPriceForLidlPlus": false,
+                  "fromRecommendedPrice": false,
+                  "showDiscount": false,
+                  "showFrom": false,
+                  "showPercentage": false,
+                  "showUpTo": false
+                },
+                "hasStar": false,
+                "hasVat": false,
+                "packaging": {
+                  "text": "165 g"
+                },
+                "price": 1.35,
+                "priceTheme": "red_yellow",
+                "specialTaxes": [],
+                "superscript": ""
+              },
+              "lidlPlusText": "met Lidl Plus",
+              "highlightText": "-40%"
+            }
+          ],
+          "multipack": false,
+          "nat": "0002880",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "100 g = 0.84"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "165 g"
+            },
+            "prefix": "vanaf",
+            "price": 1.39,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": true
+          },
+          "productId": 11005946,
+          "productType": "RETAIL_HEAD",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "100 g = 0.84"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "165 g"
+                },
+                "prefix": "vanaf",
+                "price": 1.39,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-11-02T00:52:44.262Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": true
+              },
+              "currentLidlPlusPrice": {
+                "price": {
+                  "basePrice": {
+                    "prefix": false
+                  },
+                  "currencyCode": "EUR",
+                  "currencyCodeSecond": "",
+                  "currencySymbol": "€",
+                  "currencySymbolSecond": "",
+                  "discount": {
+                    "deletedPrice": 2.49,
+                    "discountHasStar": false,
+                    "discountText": "-40%",
+                    "fromNormalPriceForLidlPlus": false,
+                    "fromRecommendedPrice": false,
+                    "hideBargainHint": false,
+                    "bargainHintEnabled": false,
+                    "bargainHintText": "Mega deal!",
+                    "showDiscount": true,
+                    "showFrom": false,
+                    "showPercentage": true,
+                    "showUpTo": false
+                  },
+                  "endDate": "2026-11-22T22:59:59Z",
+                  "endDateExclusive": "2026-11-22T23:00Z",
+                  "hasStar": false,
+                  "hasVat": true,
+                  "oldPrice": 2.49,
+                  "packaging": {
+                    "text": "165 g"
+                  },
+                  "price": 1.35,
+                  "priceTheme": "white_red",
+                  "specialTaxes": [],
+                  "startDate": "2026-11-11T23:00Z",
+                  "superscript": "",
+                  "variantsHaveDifferentPrices": false
+                },
+                "lidlPlusText": "met Lidl Plus",
+                "highlightText": "-40%"
+              },
+              "futureLidlPlusPrices": [
+                {
+                  "startDate": "2026-11-22T23:00:00.000Z",
+                  "endDateExclusive": "2026-11-25T22:59:59.000Z",
+                  "price": {
+                    "price": {
+                      "basePrice": {
+                        "prefix": false,
+                        "text": "100 g = 0.82"
+                      },
+                      "currencyCode": "EUR",
+                      "currencyCodeSecond": "",
+                      "currencySymbol": "€",
+                      "currencySymbolSecond": "",
+                      "endDate": "2026-11-25T22:59:58Z",
+                      "endDateExclusive": "2026-11-25T22:59:59Z",
+                      "hasStar": false,
+                      "hasVat": true,
+                      "packaging": {
+                        "text": "165 g"
+                      },
+                      "price": 1.35,
+                      "priceTheme": "white_red",
+                      "specialTaxes": [],
+                      "startDate": "2026-11-22T23:00Z",
+                      "superscript": "",
+                      "variantsHaveDifferentPrices": false
+                    },
+                    "lidlPlusText": "met Lidl Plus"
+                  }
+                }
+              ]
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794697824,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel vanaf 19/11 - 22/11",
+                  "type": "IN_STORE_FROM_FUTURE_DATE_RANGE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel vanaf 19/11 - 22/11",
+                    "type": "IN_STORE_FROM_FUTURE_DATE_RANGE"
+                  }
+                ],
+                "validFrom": 1795042800,
+                "validUntil": 1795388399
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 0,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": false,
+          "storeStartDate": 1795042800,
+          "storeEndDate": 1795388399,
+          "title": "Pringles",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11005946,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008785",
+                "name": "Aanbiedingen",
+                "url": "/c/store/aanbiedingen/a10008785"
+              }
+            ]
+          ],
+          "fullTitle": "PRINGLES Pringles",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              },
+              {
+                "id": 25176
+              },
+              {
+                "id": 25208
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25208
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25208
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25208
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25208
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              },
+              {
+                "id": 34902
+              },
+              {
+                "id": 25164
+              }
+            ]
+          ],
+          "lists": [
+            0,
+            25176,
+            25208,
+            25164,
+            34902,
+            25208,
+            25164,
+            34902,
+            25208,
+            25164,
+            34902,
+            25208,
+            25164,
+            34902,
+            25164,
+            34902,
+            25208,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            25164,
+            34902,
+            25164,
+            34902,
+            25164
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096205",
+                "name": "Snoep & snacks",
+                "url": "/h/snoep-snacks/h10096205"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096207",
+                "name": "Hartige snacks",
+                "url": "/h/hartige-hapjes/h10096207"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "174411",
+              "isMain": true,
+              "name": "Hartige hapjes",
+              "parent": "1744",
+              "superCategories": [
+                {
+                  "code": "1744",
+                  "name": "Snoep & snacks",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11005946"
+      },
+      "tracking": {
+        "position": 3,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11005946",
+          "searchTrackingTitle": "Pringles",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11005946",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 3,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11324877",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "PnkPzvZfooefqHPIQt1uE7AOp5D16rltEELtHNhC2K74GrMMBn/EVktNEQY=",
+          "keywordScore": "l6myq/0UbTXbDJoBiKXlpwSxU+7bjj86YtRD467gj5ohvkRHnc4lrr8r6Fs=",
+          "semanticScore": "PNo6NgVxG5sMeq8XJcJn34g5WEqHyIYKpDdcjL+BmL0fAH9WGlOxFo378DQ=",
+          "keywordScoreRaw": "NjXjILYtO6V1BIR9Qt8xMsY0lBEJDhZasxGzDuRvJBSrZdNSGrr1ytC4JcA=",
+          "ratingScore": "HavC8fu9ECkqgPTJn0wsJEteNjm/WZQ1T49oQh6mAxc6ydRRkhBHjn6hhIM=",
+          "freshnessScore": "qrWVZR/K22g/8lhjix/7d1VhDj4Osn9Ib6sJTTcRQJ2xkhR/witWdVxO9bg=",
+          "searchHubImpressions": "WTpTP4q8z2AzKyaaAMN5e2/UYxTXO1mtbSJVLJj5ajSkLMILen+yf4QGJmA=",
+          "searchHubClicks": "7GVdS+h2EzpviTa07a+Q+rnfqxAL4OM5ufT/1ezGl2/E4dYj9/N7MfV/zDY=",
+          "searchHubCarts": "ZXpDEQAYN9Rct7FE1ep1yS1FqzNG7VTBVqi/A647lrrQ8bl0TBrPU7LID7A=",
+          "businessRuleFactor": "Vv10VDO6bzNqs0Jg8+DJFbjTnXfAjgh5EarRSi02lQh9dRXk9rubGAIblOs="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794914496865307,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "Freshona",
+            "url": "/q/search?q=freshona",
+            "showBrand": true
+          },
+          "canonicalPath": "/p/freshona-erwten-met-worteltjes/p11324877",
+          "canonicalUrl": "/p/freshona-erwten-met-worteltjes/p11324877",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11324877_51432d3b",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11324877_b9d28745",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11324877",
+          "flashSales": false,
+          "fullTitle": "Freshona Erwten met worteltjes",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "146529"
+          ],
+          "image": "https://www.lidl.nl/assets/gcpdb848caa88fa4bdbbd49e5ef82b72004.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcpdb848caa88fa4bdbbd49e5ef82b72004.png",
+            "accessibility": "FRESHONA Erwten met worteltjes, 800 g"
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11324877,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcpdb848caa88fa4bdbbd49e5ef82b72004.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcpdb848caa88fa4bdbbd49e5ef82b72004.png",
+              "accessibility": "FRESHONA Erwten met worteltjes, 800 g"
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "FRESHONA Erwten met worteltjes, 800 g",
+              "variants": [
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp0eecc41314424da389ddedaec8dfbbde.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpb70e9bf82ce849f398a433763fe7b848.png"
+                  }
+                },
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpe29ad1b3aac646c79f4b6651436afff4.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpdb848caa88fa4bdbbd49e5ef82b72004.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "description": "<ul><li>Extra fijn</li></ul>",
+            "fullTitle": "Freshona Erwten met worteltjes",
+            "moreDetails": "Meer informatie",
+            "title": "Erwten met worteltjes",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Diepvriesvoeding (Diepvriesvoeding)/Diepvriesfruit & -groenten",
+            "wonCategoryPrimaryPath": "0/17/1716/171614"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "0146529",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "1 KG = 1.73"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "800 g"
+            },
+            "price": 1.38,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11324877,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "1 KG = 1.73"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2026-11-17T22:59:59Z",
+                "endDateExclusive": "2026-11-17T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "800 g"
+                },
+                "price": 1.38,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-11-17T11:21:31.122Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futurePrices": [
+                {
+                  "startDate": "2026-11-17T23:00:00.000Z",
+                  "endDateExclusive": "2200-01-01T23:00:00.000Z",
+                  "price": {
+                    "basePrice": {
+                      "prefix": false,
+                      "text": "1 KG = 1.71"
+                    },
+                    "currencyCode": "EUR",
+                    "currencyCodeSecond": "",
+                    "currencySymbol": "€",
+                    "currencySymbolSecond": "",
+                    "endDate": "2200-01-01T22:59:59Z",
+                    "endDateExclusive": "2200-01-01T23:00Z",
+                    "hasStar": false,
+                    "hasVat": true,
+                    "packaging": {
+                      "text": "800 g"
+                    },
+                    "price": 1.37,
+                    "priceTheme": "white_red",
+                    "specialTaxes": [],
+                    "startDate": "2026-11-17T23:00Z",
+                    "superscript": "",
+                    "variantsHaveDifferentPrices": false
+                  }
+                }
+              ],
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794914496,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Erwten met worteltjes",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11324877,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008777",
+                "name": "Assortiment Diepvries",
+                "url": "/c/store/assortiment-diepvries/a10008777"
+              }
+            ]
+          ],
+          "fullTitle": "Freshona Erwten met worteltjes",
+          "ean": "4056489102939",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              }
+            ]
+          ],
+          "lists": [
+            0
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071049",
+                "name": "Diepvries",
+                "url": "/h/diepvriesvoeding-diepvriesvoeding/h10071049"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096203",
+                "name": "Diepvries groente & fruit",
+                "url": "/h/diepvriesfruit-groenten/h10096203"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171614",
+              "isMain": true,
+              "name": "Diepvriesfruit & -groenten",
+              "parent": "1716",
+              "superCategories": [
+                {
+                  "code": "1716",
+                  "name": "Diepvriesvoeding (Diepvriesvoeding)",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11324877"
+      },
+      "tracking": {
+        "position": 4,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11324877",
+          "searchTrackingTitle": "Erwten+met+worteltjes",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11324877",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 4,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11365564",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "RLg3f43tRLE8+6NaWvTiI2WTfCiLMi2gLs/yGxlAF779Kxa6g4JIeqeaEF8=",
+          "keywordScore": "VeOGuZ8I/yjSXXI998tcY8xE9kIjnc9H3Piu8lAvHA+Y8QUTFD6d84fvyCk=",
+          "semanticScore": "b6EnTnZnHsk/Sk01UqUEto43ZFoCeY0Vszx/tuqJHcKPZ5DmTJWJ7gaFQfA=",
+          "keywordScoreRaw": "AE+c8eA1s3aCjVFBdFR0/gLc1Ox1RBd/9YuelhaUpby9FOWU81le1jj56Ew=",
+          "ratingScore": "aJNzPdlONV0rDYjO2Uyfp8ppxRJyl8QH+rV1k/yiSfqmiRiu8PGm1GTUuw0=",
+          "freshnessScore": "5vyHABuF6/xJsCyW1zGdS90QaArSBng/aEw3WcKLAzjZpmjKkqQm2B3Urk0=",
+          "searchHubImpressions": "S1tKucJYqPGdsImMvD+X2/S7VFz+RB74Xbck9KL6T1SAoUD8XONT32vF5/E=",
+          "searchHubClicks": "EvOvWB5T+1ACqyQWRowYCOgNiZyHE/7KoyUzG+BGQP1ITgcx92X6Y4hURQ8=",
+          "searchHubCarts": "lcW2O1XZzUkYJ53rD4JyJgrYFSJ6lMjNDZGmEX1CVKqS3ayuCG6UbWIOfUg=",
+          "businessRuleFactor": "gu2GfuHvLlE35AFYDS1tt68ut+I7LLiZNTgu5SwEWNEwimLzUogl7e5IYik="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794871123274534,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "canonicalPath": "/p/tijgerbroodje/p11365564",
+          "canonicalUrl": "/p/tijgerbroodje/p11365564",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11365564_3cc84d89",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11365564_a49c7b63",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11365564",
+          "flashSales": false,
+          "fullTitle": "Tijgerbroodje",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "25673"
+          ],
+          "image": "https://www.lidl.nl/assets/gcp0724a7b4be044938aecd35e53a7579f6.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcp0724a7b4be044938aecd35e53a7579f6.png",
+            "accessibility": "Tigerbroodje met een karakteristieke tijgerkorst"
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11365564,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcp0724a7b4be044938aecd35e53a7579f6.png",
+            "https://www.lidl.nl/assets/gcp55f5dd1a34854d93ad6b4f0ffc053d08.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcp0724a7b4be044938aecd35e53a7579f6.png",
+              "accessibility": "Tigerbroodje met een karakteristieke tijgerkorst"
+            },
+            {
+              "image": "https://www.lidl.nl/assets/gcp55f5dd1a34854d93ad6b4f0ffc053d08.png",
+              "accessibility": "Tijgerbroodjes opgestapeld op een zwarte achtergrond"
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Tigerbroodje met een karakteristieke tijgerkorst",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp199e96b9b2d04eb1949fb000f0ab8f0c.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp0724a7b4be044938aecd35e53a7579f6.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpda167dcb5dc147318f3160b758f78ec8.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp56d8bc96564740c8bf86ba1264e0f4da.png"
+                  }
+                }
+              ]
+            },
+            {
+              "accessibility": "Tijgerbroodjes opgestapeld op een zwarte achtergrond",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp6e7539731d9a4cd1b3a54532763b15bf.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp55f5dd1a34854d93ad6b4f0ffc053d08.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp625fdb07bc0f4b1abdaf82d738d3d50f.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp004606e3ccd74992be977122c6fb655d.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "description": "<ul><li>63 g</li></ul>",
+            "fullTitle": "Tijgerbroodje",
+            "moreDetails": "Meer informatie",
+            "title": "Tijgerbroodje",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Bakkerij/Broodjes & klein gebak",
+            "wonCategoryPrimaryPath": "0/17/1740/174011"
+          },
+          "lidlPlus": [
+            {
+              "price": {
+                "basePrice": {
+                  "prefix": false
+                },
+                "discount": {
+                  "discountHasStar": false,
+                  "fromNormalPriceForLidlPlus": false,
+                  "fromRecommendedPrice": false,
+                  "showDiscount": false,
+                  "showFrom": false,
+                  "showPercentage": false,
+                  "showUpTo": false
+                },
+                "hasStar": false,
+                "hasVat": false,
+                "packaging": {
+                  "text": "Per stuk"
+                },
+                "price": 0.25,
+                "priceTheme": "red_yellow",
+                "specialTaxes": [],
+                "superscript": ""
+              },
+              "lidlPlusText": "met Lidl Plus",
+              "highlightText": "-24%"
+            }
+          ],
+          "multipack": false,
+          "nat": "0025673",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "100 g = 0.52"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "63 g"
+            },
+            "price": 0.33,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11365564,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "100 g = 0.52"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "63 g"
+                },
+                "price": 0.33,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-10-28T14:16:59.113Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "currentLidlPlusPrice": {
+                "price": {
+                  "basePrice": {
+                    "prefix": false
+                  },
+                  "currencyCode": "EUR",
+                  "currencyCodeSecond": "",
+                  "currencySymbol": "€",
+                  "currencySymbolSecond": "",
+                  "discount": {
+                    "deletedPrice": 0.33,
+                    "discountHasStar": false,
+                    "discountText": "-24%",
+                    "fromNormalPriceForLidlPlus": true,
+                    "fromRecommendedPrice": false,
+                    "hideBargainHint": false,
+                    "bargainHintEnabled": false,
+                    "bargainHintText": "Mega deal!",
+                    "showDiscount": true,
+                    "showFrom": false,
+                    "showPercentage": true,
+                    "showUpTo": false,
+                    "suffix": ""
+                  },
+                  "endDate": "2026-11-22T22:59:59Z",
+                  "endDateExclusive": "2026-11-22T23:00Z",
+                  "hasStar": false,
+                  "hasVat": true,
+                  "oldPrice": 0.33,
+                  "packaging": {
+                    "text": "Per stuk"
+                  },
+                  "price": 0.25,
+                  "priceTheme": "white_red",
+                  "specialTaxes": [],
+                  "startDate": "2026-11-11T23:00Z",
+                  "superscript": "",
+                  "variantsHaveDifferentPrices": false
+                },
+                "lidlPlusText": "met Lidl Plus",
+                "highlightText": "-24%"
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794871123,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel 16/11 - 22/11",
+                  "type": "IN_STORE_PAST_DATE_RANGE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel 16/11 - 22/11",
+                    "type": "IN_STORE_PAST_DATE_RANGE"
+                  }
+                ],
+                "validFrom": 1794783600,
+                "validUntil": 1795388399
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "storeStartDate": 1794783600,
+          "storeEndDate": 1795388399,
+          "title": "Tijgerbroodje",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11365564,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008405",
+                "name": "Ovenvers brood",
+                "url": "/c/store/assortiment-ovenvers-brood/a10008405"
+              }
+            ],
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008785",
+                "name": "Aanbiedingen",
+                "url": "/c/store/aanbiedingen/a10008785"
+              }
+            ]
+          ],
+          "fullTitle": "Tijgerbroodje",
+          "ean": "20500573",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              },
+              {
+                "id": 35271
+              }
+            ]
+          ],
+          "lists": [
+            0,
+            35271
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096086",
+                "name": "Bakkerij",
+                "url": "/h/bakkerij/h10096086"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096090",
+                "name": "Broodjes & bollen",
+                "url": "/h/broodjes-klein-gebak/h10096090"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "174011",
+              "isMain": true,
+              "name": "Broodjes & klein gebak",
+              "parent": "1740",
+              "superCategories": [
+                {
+                  "code": "1740",
+                  "name": "Bakkerij",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11365564"
+      },
+      "tracking": {
+        "position": 5,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11365564",
+          "searchTrackingTitle": "Tijgerbroodje",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11365564",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 5,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11030152",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "4IrsO+5cyXBBCjZ/nzrJ9WoMMRCQWyo2aMhZ3SfbmATWtsCZbKMILb0wce0=",
+          "keywordScore": "ZtKaij8zjV0a/K2FhU9NZaw684icTaRymUgmAfFpLDKnIlKO5jJ8xkoR7vA=",
+          "semanticScore": "HiE8DRxXIvrZ9RnDZvrAuHCImBQ9RWcJZS7Tr+iQJJY2+gYfAJa7MLROgy8=",
+          "keywordScoreRaw": "5EGSjfHmFUfc2FYEHcBz9xMkxkm2kPVyNV3lcv6uD72E5yL0uzncN+4HfCo=",
+          "ratingScore": "ozFd0CpPXMZyTTZpUBRvqWl7iw+LPJuYy79XE9EIFAE9gVjxY4uV3fnNGx4=",
+          "freshnessScore": "PMTjSjRf6p/m0ycmnlwfEQDWgZB+2EekPaO044Ql6qQgDHF1PAYbu/zrf+Q=",
+          "searchHubImpressions": "VhOkWb4SR+0kvWe9e8PoyEikVNlUwIAexc6r+tnsVI6dy4FeBQuq7WQEneU=",
+          "searchHubClicks": "+G2/IAX5LLfSM9zl1jvu5+j6HCUzmECfNxOhFPPVML9Yf9f4LeLyXzcB4+4=",
+          "searchHubCarts": "uxHpa3vykFiWsEsUV0liK51dar6qW4AAG6Csg4DbsqAKWwo80IDebkkdH58=",
+          "businessRuleFactor": "GPLhiXe5RPLye87G/A0utXP+EN4BskfwNu42jOAfCISc3cbw++aLxfP5WHM="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794307852656021,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "canonicalPath": "/p/limoenen/p11030152",
+          "canonicalUrl": "/p/limoenen/p11030152",
+          "category": "F+V",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11030152_2e019cc5",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11030152_5fd8be03",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11030152",
+          "flashSales": false,
+          "fullTitle": "Limoenen",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "80067"
+          ],
+          "image": "https://www.lidl.nl/assets/gcpbd243a480d68464d9d94a92d80dfd283.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcpbd243a480d68464d9d94a92d80dfd283.png",
+            "accessibility": "Een verpakking van drie limoenen uit Brazilië."
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11030152,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcpbd243a480d68464d9d94a92d80dfd283.png",
+            "https://www.lidl.nl/assets/gcp87847df262e143058c545ec6135606f5.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcpbd243a480d68464d9d94a92d80dfd283.png",
+              "accessibility": "Een verpakking van drie limoenen uit Brazilië."
+            },
+            {
+              "image": "https://www.lidl.nl/assets/gcp87847df262e143058c545ec6135606f5.png",
+              "accessibility": "Een hele limoen en een doorgesneden halve limoen op een witte achtergrond."
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Een verpakking van drie limoenen uit Brazilië.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp0159c8d18aeb4ce8ae831811d86360b9.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpbd243a480d68464d9d94a92d80dfd283.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpeefbe93137ad4c239e09cc511fcf1adc.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp5c0b834c149c49ae814f2fefd20ea045.png"
+                  }
+                }
+              ]
+            },
+            {
+              "accessibility": "Een hele limoen en een doorgesneden halve limoen op een witte achtergrond.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpbc4bc852c1544646a25059c94299fd73.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp87847df262e143058c545ec6135606f5.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp9699fca57b3f46f8a9c3e12e85ae19da.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp131a3ce6fa704a2997a70c4e7b2ecc11.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "F+V",
+            "fullTitle": "Limoenen",
+            "moreDetails": "Meer informatie",
+            "title": "Limoenen",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Groenten & fruit/Fruit",
+            "wonCategoryPrimaryPath": "0/17/1710/171010"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "0080067",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "3 Stk."
+            },
+            "price": 0.99,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11030152,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "3 Stk."
+                },
+                "price": 0.99,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-10-28T14:10:13.353Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794307852,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Limoenen",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11030152,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008017",
+                "name": "Groente en Fruit bij Lidl",
+                "url": "/c/store/assortiment-groente-en-fruit/a10008017"
+              }
+            ]
+          ],
+          "fullTitle": "Limoenen",
+          "ean": "20253356",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              }
+            ]
+          ],
+          "lists": [
+            0
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071012",
+                "name": "Groenten & fruit",
+                "url": "/h/groenten-fruit/h10071012"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10095592",
+                "name": "Fruit",
+                "url": "/h/fruit/h10095592"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171010",
+              "isMain": true,
+              "name": "Fruit",
+              "parent": "1710",
+              "superCategories": [
+                {
+                  "code": "1710",
+                  "name": "Groenten & fruit",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11030152"
+      },
+      "tracking": {
+        "position": 6,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11030152",
+          "searchTrackingTitle": "Limoenen",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11030152",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 6,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "F+V"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11321027",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "rmtEW23QXdJujBy5BQpjFSqCPEjrdifN9f7FCuQFHDndrlS82B/sIOy8WvA=",
+          "keywordScore": "9xq63tdajMkS9c+hW2SFk7J5+4QeRUD7V2MwoScehoEUqT0oOOdFGz9QJQA=",
+          "semanticScore": "y8ZeyldHXNyI5uMMSo8KXNB0U3xjXTjw4tO8Q7koD+WNJ4Y0rsplNYhvB8A=",
+          "keywordScoreRaw": "rdDcDboiRmwRn8WvdYPcpw2R6HqIAC/nXEGbIUg57D4MxqkfQr1JI8rzfKI=",
+          "ratingScore": "voYqFcczn37w2uRgeV6WdMIMJA7K+2D3pdb0aZ5DDOe/iocu2vqqpCq6gfM=",
+          "freshnessScore": "cHBEZAtzWdU8hUfGqwLorty/3EQFX5Lsvq8+2TZsk+UbY0fh+qe6iSpyQEg=",
+          "searchHubImpressions": "mjh9iBox8QJzvy+XpW9S1lg1bte5oMo+frhNIOF/DdM/2nB1q78ujz0MkSg=",
+          "searchHubClicks": "rE3yMsf+z14EOD5Q1L/xRkBFVUwAsi1CoVcebrz9OPH0YBdQcz8Iefs5WRg=",
+          "searchHubCarts": "1DEqC0vUgI+73E8uND32Boae1PNpplQDf2t6z44EBcgXALttu4zkmlOQBeA=",
+          "businessRuleFactor": "wpJ3hDgHxKtAlLoD6UfdJPxMxKng6ES8YIcj3BpIx44CGdHQOZT+foX6XMk="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794819148554769,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "Biz Biz",
+            "url": "/q/search?q=biz+biz",
+            "showBrand": false
+          },
+          "canonicalPath": "/p/ovenfrikandellen/p11321027",
+          "canonicalUrl": "/p/ovenfrikandellen/p11321027",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11321027_34c18327",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11321027_2d841e95",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11321027",
+          "flashSales": false,
+          "fullTitle": "Ovenfrikandellen",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "179960"
+          ],
+          "image": "https://www.lidl.nl/assets/gcp448b870b0a0f476b88035024f0f2edc1.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcp448b870b0a0f476b88035024f0f2edc1.png",
+            "accessibility": "Biz Biz oven frikandellen, ook geschikt voor de airfryer, 5 stuks"
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11321027,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcp448b870b0a0f476b88035024f0f2edc1.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcp448b870b0a0f476b88035024f0f2edc1.png",
+              "accessibility": "Biz Biz oven frikandellen, ook geschikt voor de airfryer, 5 stuks"
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Biz Biz oven frikandellen, ook geschikt voor de airfryer, 5 stuks",
+              "variants": [
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp4cd3cfcd7d3a4c378cbba8dec192d2fc.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp1dabd0bce5714e6ea7769960be7ae9db.png"
+                  }
+                },
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp7907f182d6f34f26a2cffe97735c3000.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp448b870b0a0f476b88035024f0f2edc1.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "description": "<ul><li>5 stuks per pak</li></ul>",
+            "fullTitle": "Ovenfrikandellen",
+            "moreDetails": "Meer informatie",
+            "title": "Ovenfrikandellen",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Diepvriesvoeding (Diepvriesvoeding)/Diepvriespizza's & snacks",
+            "wonCategoryPrimaryPath": "0/17/1716/171611"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "6608732",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "1 KG = 5.11"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "350 g"
+            },
+            "price": 1.79,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11321027,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "1 KG = 5.11"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "350 g"
+                },
+                "price": 1.79,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-10-28T14:16:48.075Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794819148,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Ovenfrikandellen",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11321027,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008777",
+                "name": "Assortiment Diepvries",
+                "url": "/c/store/assortiment-diepvries/a10008777"
+              }
+            ]
+          ],
+          "fullTitle": "Ovenfrikandellen",
+          "ean": "4056489548096",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              }
+            ]
+          ],
+          "lists": [
+            0
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071049",
+                "name": "Diepvries",
+                "url": "/h/diepvriesvoeding-diepvriesvoeding/h10071049"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096197",
+                "name": "Diepvriespizza's & snacks",
+                "url": "/h/diepvriespizza-s-snacks/h10096197"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171611",
+              "isMain": true,
+              "name": "Diepvriespizza's & snacks",
+              "parent": "1716",
+              "superCategories": [
+                {
+                  "code": "1716",
+                  "name": "Diepvriesvoeding (Diepvriesvoeding)",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11321027"
+      },
+      "tracking": {
+        "position": 7,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11321027",
+          "searchTrackingTitle": "Ovenfrikandellen",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11321027",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 7,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11673271",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "ZjXQESS5/2fpHllu6T1cnX0+LQtSruRaO5/WH2R277rY9ydYmXpUuNQLGb0=",
+          "keywordScore": "O4lddt08VNIOP8I5zmRy5khghoxlxHKRdobeIbTdMJUBSOQ09uaKA20iT7M=",
+          "semanticScore": "5i5wlTBARhrKIT0LiefTW9kOyrpZSO1eXLnZqZvn+FbWQe/56B5t0CRywck=",
+          "keywordScoreRaw": "SB9yVh38M1E2Hzz4NE2zK3Wkc28SHG77LU4lMFKMe5elElOAOT0QFpLhaWk=",
+          "ratingScore": "dxSQu/ruSxMU7KQQ6YXUr9oiZ7SFCR/wgt84TLGD+medPllnPYi+QcunOzE=",
+          "freshnessScore": "iTx5hQEe5vzvisuXXDWLcIWa+15EjocPOzdop4VdW+ndWVpe+ffCXg5CwOQ=",
+          "searchHubImpressions": "aVVzQyLz5V9kpzx9bVGPweT+GMmkrxybkftSSaTPBSh+0WffP/V4EUoEyKk=",
+          "searchHubClicks": "p70hyJetUMY1oaaOuUdjNcNJi5KQ1WQZE5ADYunj1R/jR5xlhTJL504QhLc=",
+          "searchHubCarts": "cG2GMmP6c6x74lqzEU71WDdUxLtapeRciuu/OdLmjmQLGmKsRpQVzBSHZMY=",
+          "businessRuleFactor": "BmqR4kK41Mk0+CX2wx8+rhp9UMWSdDzGiAUecAPhLrLqh74F0u1Pq2dtTO8="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794820298687072,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "MORA",
+            "url": "/q/search?q=mora",
+            "showBrand": true
+          },
+          "canonicalPath": "/p/mora-bamischijven/p11673271",
+          "canonicalUrl": "/p/mora-bamischijven/p11673271",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11673271_c19b05d9",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11673271_512898b2",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11673271",
+          "flashSales": false,
+          "fullTitle": "MORA Bamischijven",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "6616101"
+          ],
+          "image": "https://www.lidl.nl/assets/gcpfb2c5a4e852b462bb31aec9982d8315c.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcpfb2c5a4e852b462bb31aec9982d8315c.png",
+            "accessibility": "Verpakking van Mora Bami Schijf."
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11673271,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcpfb2c5a4e852b462bb31aec9982d8315c.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcpfb2c5a4e852b462bb31aec9982d8315c.png",
+              "accessibility": "Verpakking van Mora Bami Schijf."
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Verpakking van Mora Bami Schijf.",
+              "variants": [
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp36a47f01907a460a8760548250ee17a1.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpfb2c5a4e852b462bb31aec9982d8315c.png"
+                  }
+                },
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp8973a5555bdc494c83c896161e60848f.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp49478b5d48a944d299ed7ac1fdd6439b.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "fullTitle": "MORA Bamischijven",
+            "moreDetails": "Meer informatie",
+            "title": "Bamischijven",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Diepvriesvoeding (Diepvriesvoeding)/Diepvriespizza's & snacks",
+            "wonCategoryPrimaryPath": "0/17/1716/171611"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "6616101",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "1 KG = 7.23"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "400 g"
+            },
+            "price": 2.89,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11673271,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "1 KG = 7.23"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "400 g"
+                },
+                "price": 2.89,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-10-28T14:17:20.672Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794820298,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Bamischijven",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11673271,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008777",
+                "name": "Assortiment Diepvries",
+                "url": "/c/store/assortiment-diepvries/a10008777"
+              }
+            ]
+          ],
+          "fullTitle": "MORA Bamischijven",
+          "ean": "8710861994593",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              },
+              {
+                "id": 25257
+              },
+              {
+                "id": 34872
+              }
+            ]
+          ],
+          "lists": [
+            0,
+            25257,
+            34872
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071049",
+                "name": "Diepvries",
+                "url": "/h/diepvriesvoeding-diepvriesvoeding/h10071049"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096197",
+                "name": "Diepvriespizza's & snacks",
+                "url": "/h/diepvriespizza-s-snacks/h10096197"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171611",
+              "isMain": true,
+              "name": "Diepvriespizza's & snacks",
+              "parent": "1716",
+              "superCategories": [
+                {
+                  "code": "1716",
+                  "name": "Diepvriesvoeding (Diepvriesvoeding)",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11673271"
+      },
+      "tracking": {
+        "position": 8,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11673271",
+          "searchTrackingTitle": "Bamischijven",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11673271",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 8,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    },
+    {
+      "resultClass": "product",
+      "type": "product",
+      "code": "11321025",
+      "label": "",
+      "url": "",
+      "xPayload": {
+        "metaData": {
+          "relevancyScore": "yg5jEs8yJi1ILzA9UIlEzAkxDUQCOPHsVysp+y4EbluKMX3j/anuK6sbts8=",
+          "keywordScore": "UgaAE84sad5Jz9wgOINRK7aB5qhZBm9axzvxSQAkYxCKju10iY/09KJ2OIs=",
+          "semanticScore": "f4DpTOiVifpHznRipw2cAZ/q4jXZkBVfMiiEr4T0QU9TAQ4p0/gWrP2jOBc=",
+          "keywordScoreRaw": "WG5YNQ3dIW4fPob47jiSJFc0t8RWJqgC8f0N9eDAf1+gMX7s5El7xmBCY88=",
+          "ratingScore": "O56P2X7ZzPSFdcJja2XB1eznQ7F/4VU0Ag8+5t1N/sAnX2YJDB1a8g56JVI=",
+          "freshnessScore": "V7htewBw/gWoTheWQGqRcOHZft5K/GV3fw8+DjAl8Sm72fzP704cXl9Fhlo=",
+          "searchHubImpressions": "kEvNTPh3I0MvQKPVT3ooNKA5Y4Y0IAg/sfqTAXLUY/aF0LzeMIEIQm2VjZo=",
+          "searchHubClicks": "fWZw1LAi4yY/6aFI9Wz059n1mbut64NqK90eMkhB6U1FEi3RKU3HSsr20zY=",
+          "searchHubCarts": "rHJ8vur1ncdGx43PB/7lovoMK+AN81ynPQ+ALoreowY8lEwQq2EGSHJ02lo=",
+          "businessRuleFactor": "m04SrjLsoodOTmd5lGi/A/ihhFHZZ7Py/Dg/mD2Mcx/UzxCUzAA6FD+eWmM="
+        }
+      },
+      "gridbox": {
+        "country": "NL",
+        "sequence": 1794820303901481,
+        "data": {
+          "ageRestriction": false,
+          "hasColors": false,
+          "awards": [],
+          "brand": {
+            "name": "Biz Biz",
+            "url": "/q/search?q=biz+biz",
+            "showBrand": true
+          },
+          "canonicalPath": "/p/biz-biz-bamischijven/p11321025",
+          "canonicalUrl": "/p/biz-biz-bamischijven/p11321025",
+          "category": "Food",
+          "cutoutimageV2": [],
+          "dealOfDay": {
+            "active": false
+          },
+          "designTheme": "default",
+          "disclaimers": [
+            {
+              "id": "code_11321025_407065eb",
+              "type": "CODE",
+              "value": "Basic"
+            },
+            {
+              "id": "code_11321025_0883db8a",
+              "type": "CODE",
+              "value": "RecommendedPrice_Legal"
+            }
+          ],
+          "displayFreeDelivery": false,
+          "energyLabels": [],
+          "erpNumber": "11321025",
+          "flashSales": false,
+          "fullTitle": "Biz Biz Bamischijven",
+          "gs1Attributes": [],
+          "guaranteeLabels": [],
+          "havingPrice": true,
+          "havingThreesixty": false,
+          "havingVideos": false,
+          "highlightedSeals": 0,
+          "ians": [
+            "179956"
+          ],
+          "image": "https://www.lidl.nl/assets/gcp57728a53a84443da962ca9d70c08cf86.png",
+          "image_V1": {
+            "image": "https://www.lidl.nl/assets/gcp57728a53a84443da962ca9d70c08cf86.png",
+            "accessibility": "Biz Biz klassieke bamischijven gevuld met kruidige bami en groenten"
+          },
+          "isLidlGiftCard": false,
+          "isUsedProduct": false,
+          "itemId": 11321025,
+          "imageList": [
+            "https://www.lidl.nl/assets/gcp57728a53a84443da962ca9d70c08cf86.png",
+            "https://www.lidl.nl/assets/gcp6278ee103b684c21acb4a6fe775a0047.png",
+            "https://www.lidl.nl/assets/gcp61baf3af39434593af35b63939071230.png"
+          ],
+          "imageList_V1": [
+            {
+              "image": "https://www.lidl.nl/assets/gcp57728a53a84443da962ca9d70c08cf86.png",
+              "accessibility": "Biz Biz klassieke bamischijven gevuld met kruidige bami en groenten"
+            },
+            {
+              "image": "https://www.lidl.nl/assets/gcp6278ee103b684c21acb4a6fe775a0047.png",
+              "accessibility": "Chef Select Classic Bamischijven, 6 stuks met Nutri-Score D."
+            },
+            {
+              "image": "https://www.lidl.nl/assets/gcp61baf3af39434593af35b63939071230.png",
+              "accessibility": "Biz Biz classic bamischijven, 6 stuks."
+            }
+          ],
+          "imageList_V2": [
+            {
+              "accessibility": "Biz Biz klassieke bamischijven gevuld met kruidige bami en groenten",
+              "variants": [
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp44496a795dea45b0a6b757798b26a73d.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcpa31ca51126e041f8ad57dce9084271ee.png"
+                  }
+                },
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpadb4d07e95a447bc9a190454386720b2.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp57728a53a84443da962ca9d70c08cf86.png"
+                  }
+                }
+              ]
+            },
+            {
+              "accessibility": "Chef Select Classic Bamischijven, 6 stuks met Nutri-Score D.",
+              "variants": [
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcpfe5e99be928c4a5484d36691113c3c7b.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp07fdc347693340acba7fa2023a1954db.png"
+                  }
+                },
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp5533a6031c0a413787672a14f77f8d12.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp6278ee103b684c21acb4a6fe775a0047.png"
+                  }
+                }
+              ]
+            },
+            {
+              "accessibility": "Biz Biz classic bamischijven, 6 stuks.",
+              "variants": [
+                {
+                  "ratio": "3:4",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp0d878f2467b945a1a9cf3845ed5e3b79.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp9521e702825b4fdb87f2fcc950ebb99c.png"
+                  }
+                },
+                {
+                  "ratio": "4:3",
+                  "sizes": {
+                    "mediumUrl": "https://www.lidl.nl/assets/gcp248427ec85c1483e90779a3357a18750.png",
+                    "smallUrl": "https://www.lidl.nl/assets/gcp61baf3af39434593af35b63939071230.png"
+                  }
+                }
+              ]
+            }
+          ],
+          "keyfacts": {
+            "analyticsCategory": "Food",
+            "fullTitle": "Biz Biz Bamischijven",
+            "moreDetails": "Meer informatie",
+            "title": "Bamischijven",
+            "wonCategoryPrimary": "Werelden van nood/Eten en dichtbij voedsel/Diepvriesvoeding (Diepvriesvoeding)/Diepvriespizza's & snacks",
+            "wonCategoryPrimaryPath": "0/17/1716/171611"
+          },
+          "lidlPlus": [],
+          "multipack": false,
+          "nat": "6606743",
+          "online": false,
+          "preventSelling": false,
+          "price": {
+            "basePrice": {
+              "prefix": false,
+              "text": "1 KG = 4.56"
+            },
+            "currencyCode": "EUR",
+            "currencyCodeSecond": "",
+            "currencySymbol": "€",
+            "currencySymbolSecond": "",
+            "hasStar": false,
+            "hasVat": false,
+            "packaging": {
+              "text": "6 x 80 g"
+            },
+            "price": 2.19,
+            "priceTheme": "white_red",
+            "specialTaxes": [],
+            "variantsHaveDifferentPrices": false
+          },
+          "productId": 11321025,
+          "productType": "RETAIL",
+          "productOrigin": "progress_event",
+          "quickAddToCart": false,
+          "regions": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6
+          ],
+          "regionsV2": {
+            "1": {
+              "regionName": "1 - Heerenveen",
+              "isDefault": true,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "2": {
+              "regionName": "2 - Etten-leur",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "3": {
+              "regionName": "3 - Oosterhout",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "4": {
+              "regionName": "4 - Almere",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "5": {
+              "regionName": "5 - Weert",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            },
+            "6": {
+              "regionName": "6 - Waddinxveen",
+              "isDefault": false,
+              "regionPriceId": "1",
+              "status": "ONLINE",
+              "hasVat": false,
+              "priceHasZeroVat": false
+            }
+          },
+          "regionsPrices": {
+            "1": {
+              "currentPrice": {
+                "basePrice": {
+                  "prefix": false,
+                  "text": "1 KG = 4.56"
+                },
+                "currencyCode": "EUR",
+                "currencyCodeSecond": "",
+                "currencySymbol": "€",
+                "currencySymbolSecond": "",
+                "endDate": "2200-01-01T22:59:59Z",
+                "endDateExclusive": "2200-01-01T23:00Z",
+                "hasStar": false,
+                "hasVat": true,
+                "packaging": {
+                  "text": "6 x 80 g"
+                },
+                "price": 2.19,
+                "priceTheme": "white_red",
+                "specialTaxes": [],
+                "startDate": "2026-10-28T14:16:48.069Z",
+                "superscript": "",
+                "variantsHaveDifferentPrices": false
+              },
+              "futureLidlPlusPrices": []
+            }
+          },
+          "ribbons": [],
+          "renderedTs": 1794820303,
+          "seals": [],
+          "stockAvailability": {
+            "availabilityIndicator": 0,
+            "badgeInfo": {
+              "badges": [
+                {
+                  "text": "Alleen in de winkel",
+                  "type": "IN_STORE"
+                }
+              ]
+            },
+            "badgeInfoV2": [
+              {
+                "badges": [
+                  {
+                    "text": "Alleen in de winkel",
+                    "type": "IN_STORE"
+                  }
+                ]
+              }
+            ],
+            "onlineAvailable": false,
+            "minOrderableQuantity": 1,
+            "backInStockNotification": false,
+            "backInStockNotificationSoldOut": false
+          },
+          "store": true,
+          "title": "Bamischijven",
+          "timezoneId": "Europe/Amsterdam",
+          "zones": {}
+        },
+        "productId": 11321025,
+        "meta": {
+          "categoryPaths": [],
+          "campaignPaths": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10008777",
+                "name": "Assortiment Diepvries",
+                "url": "/c/store/assortiment-diepvries/a10008777"
+              }
+            ]
+          ],
+          "fullTitle": "Biz Biz Bamischijven",
+          "ean": "4056489145523",
+          "retailLists": [
+            [
+              {
+                "id": 0
+              }
+            ]
+          ],
+          "lists": [
+            0
+          ],
+          "wonCategoryBreadcrumbs": [
+            [
+              {
+                "hiddenCategory": false,
+                "id": "10068374",
+                "name": "Eten & drinken",
+                "url": "/c/eten-en-drinken/s10068374"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10071049",
+                "name": "Diepvries",
+                "url": "/h/diepvriesvoeding-diepvriesvoeding/h10071049"
+              },
+              {
+                "hiddenCategory": false,
+                "id": "10096197",
+                "name": "Diepvriespizza's & snacks",
+                "url": "/h/diepvriespizza-s-snacks/h10096197"
+              }
+            ]
+          ],
+          "worldOfNeeds": [
+            {
+              "code": "171611",
+              "isMain": true,
+              "name": "Diepvriespizza's & snacks",
+              "parent": "1716",
+              "superCategories": [
+                {
+                  "code": "1716",
+                  "name": "Diepvriesvoeding (Diepvriesvoeding)",
+                  "parent": "17"
+                },
+                {
+                  "code": "17",
+                  "name": "Eten en dichtbij voedsel",
+                  "parent": "0"
+                },
+                {
+                  "code": "0",
+                  "name": "Werelden van nood",
+                  "parent": ""
+                }
+              ]
+            }
+          ],
+          "preview": false
+        },
+        "action": "UPDATE",
+        "language": "nl",
+        "eventType": "GRIDBOX",
+        "id": "11321025"
+      },
+      "tracking": {
+        "position": 9,
+        "xPayload": {
+          "searchTrackingMasterId": "Product.11321025",
+          "searchTrackingTitle": "Bamischijven",
+          "searchTrackingPageSize": 48,
+          "searchTrackingPage": 1,
+          "searchTrackingEvent": "click",
+          "list": "search",
+          "searchTrackingId": "Product.11321025",
+          "searchTrackingQuery": "Yoghurt",
+          "searchTrackingOrigPos": 1,
+          "searchTrackingPos": 9,
+          "searchTrackingOrigPageSize": 48,
+          "searchTrackingChannel": "NL",
+          "category": "Food"
+        }
+      }
+    }
+  ],
+  "breadcrumbs": [
+    {
+      "code": "query",
+      "label": "Yoghurt",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt",
+      "link": {
+        "type": "search",
+        "filter": {},
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "store",
+      "label": "[1]",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "store": [
+            "1"
+          ]
+        },
+        "q": "Yoghurt"
+      }
+    },
+    {
+      "code": "category",
+      "label": "[Eten & drinken]",
+      "url": "/q/api/search?assortment=NL&locale=nl_NL&version=v2.0.0&q=Yoghurt&category=Eten+%26+drinken&store=1",
+      "link": {
+        "type": "search",
+        "filter": {
+          "category": [
+            "Eten & drinken"
+          ],
+          "store": [
+            "1"
+          ]
+        },
+        "q": "Yoghurt"
+      }
+    }
+  ],
+  "details": {},
+  "teasers": {
+    "above search result": [
+      {
+        "id": "098dee69-a6d4-40eb-985b-f446f0f0f4a1",
+        "name": "FACTFINDER | PRE BLACK WEEK",
+        "link": "https://www.lidl.nl/c/pre-black-week/s10080606",
+        "mobile_image": "/static/assets/banner_mobiel-2559541.jpg",
+        "open_in_a_new_tab": false
+      }
+    ]
+  },
+  "advisors": []
+}
